@@ -4,6 +4,7 @@ import useSleepData from './hooks/useSleepData';
 import NightGrid from './components/NightGrid';
 import Blanket from './components/Blanket';
 import Thread from './components/Thread';
+import CoralGrowth from './components/CoralGrowth';
 
 const { phases } = theme.colors;
 
@@ -104,6 +105,23 @@ function App() {
         }
       >
         {!loading && data && <Thread data={data} />}
+      </ScrollySection>
+
+      <ScrollySection
+        phaseColor={null}
+        text={
+          <>
+            <h2 style={styles.heading}>Growth</h2>
+            <p>
+              A living form shaped by sleep. Tall, straight growth
+              marks restful weeks. Dense branching marks the chaos
+              of fragmented nights. The organism keeps growing
+              through it all.
+            </p>
+          </>
+        }
+      >
+        {!loading && data && <CoralGrowth data={data} />}
       </ScrollySection>
     </main>
   );
