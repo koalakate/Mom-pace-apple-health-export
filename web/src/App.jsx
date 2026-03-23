@@ -62,23 +62,6 @@ function App() {
         phaseColor={null}
         text={
           <>
-            <h2 style={styles.heading}>Every Night, One Circle</h2>
-            <p>
-              1,652 nights. Each circle is one night of sleep.
-              Larger circles mean more hours. Fragmented circles
-              mean interrupted sleep. Watch how the grid breaks
-              apart after each birth.
-            </p>
-          </>
-        }
-      >
-        {!loading && data && <NightGrid data={data} />}
-      </ScrollySection>
-
-      <ScrollySection
-        phaseColor={null}
-        text={
-          <>
             <h2 style={styles.heading}>The Blanket</h2>
             <p>
               Each vertical stitch is one night. Smooth lines mean
@@ -105,6 +88,23 @@ function App() {
         }
       >
         {!loading && data && <Thread data={data} />}
+      </ScrollySection>
+
+      <ScrollySection
+        phaseColor={null}
+        text={
+          <>
+            <h2 style={styles.heading}>Every Night, One Circle</h2>
+            <p>
+              1,652 nights. Each circle is one night of sleep.
+              Larger circles mean more hours. Fragmented circles
+              mean interrupted sleep. Watch how the grid breaks
+              apart after each birth.
+            </p>
+          </>
+        }
+      >
+        {!loading && data && <NightGrid data={data} />}
       </ScrollySection>
 
       <ScrollySection
