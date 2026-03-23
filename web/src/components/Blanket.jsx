@@ -1,19 +1,12 @@
 import { useRef, useEffect, useMemo } from 'react';
 import { scaleLinear } from 'd3';
+import { seededRandom } from '../utils/sleepDataUtils';
 
 const STITCH_WIDTH = 3;
 const STITCH_GAP = 1;
 const STRAND_COUNT = 5;
 const MAX_HEIGHT = 300;
 const MARGIN = { top: 20, bottom: 40 };
-
-function seededRandom(seed) {
-  let s = seed;
-  return () => {
-    s = (s * 16807 + 0) % 2147483647;
-    return (s - 1) / 2147483646;
-  };
-}
 
 export default function Blanket({ data }) {
   const canvasRef = useRef(null);
@@ -37,6 +30,7 @@ export default function Blanket({ data }) {
 
     const ctx = canvas.getContext('2d');
     ctx.scale(2, 2);
+    ctx.clearRect(0, 0, totalWidth, MAX_HEIGHT + MARGIN.top + MARGIN.bottom);
 
     const heightScale = scaleLinear()
       .domain([0, 10])

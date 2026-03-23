@@ -1,6 +1,5 @@
-import { useState, useMemo, useCallback } from 'react';
+import { useState, useMemo } from 'react';
 import { scaleLinear, timeMonday, max } from 'd3';
-import { PHASE_COLORS } from '../utils/sleepDataUtils';
 
 const CELL = 18;
 const GAP = 3;
@@ -13,11 +12,8 @@ const isBadNight = (n) =>
   n.sleep_hours < BAD_THRESHOLD_SLEEP &&
   n.awakenings > BAD_THRESHOLD_AWAKENINGS;
 
-export default function NightGrid({ data, width = 700 }) {
+export default function NightGrid({ data }) {
   const [tooltip, setTooltip] = useState(null);
-  const svgRef = useCallback((node) => {
-    if (node) setTooltip((prev) => ({ ...prev, _svgNode: node }));
-  }, []);
 
   const grid = useMemo(() => {
     if (!data) return [];
@@ -77,7 +73,6 @@ export default function NightGrid({ data, width = 700 }) {
   return (
     <div style={{ position: 'relative' }}>
       <svg
-        ref={svgRef}
         width={svgWidth}
         height={svgHeight}
         viewBox={`0 0 ${svgWidth} ${svgHeight}`}

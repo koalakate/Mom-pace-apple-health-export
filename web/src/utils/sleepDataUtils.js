@@ -1,4 +1,4 @@
-import { timeWeek, timeParse } from 'd3';
+import { timeMonday, timeParse } from 'd3';
 
 const parseDate = timeParse('%Y-%m-%d');
 
@@ -19,11 +19,20 @@ export function enrichNights(nights) {
   }));
 }
 
+/** Deterministic pseudo-random number generator */
+export function seededRandom(seed) {
+  let s = seed;
+  return () => {
+    s = (s * 16807 + 0) % 2147483647;
+    return (s - 1) / 2147483646;
+  };
+}
+
 /** Group nights by ISO week for weekly aggregation */
 export function groupByWeek(nights) {
   const weeks = new Map();
   for (const night of nights) {
-    const weekStart = timeWeek.floor(night.date);
+    const weekStart = timeMonday.floor(night.date);
     const key = weekStart.toISOString();
     if (!weeks.has(key)) weeks.set(key, { weekStart, nights: [] });
     weeks.get(key).nights.push(night);

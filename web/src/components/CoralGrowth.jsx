@@ -1,19 +1,11 @@
 import { useRef, useEffect, useMemo } from 'react';
-import { groupByWeek } from '../utils/sleepDataUtils';
+import { groupByWeek, seededRandom } from '../utils/sleepDataUtils';
 import { mean, scaleLinear } from 'd3';
 
 const WIDTH = 600;
 const HEIGHT = 900;
 const BASE_Y = HEIGHT - 40;
 const TRUNK_X = WIDTH / 2;
-
-function seededRandom(seed) {
-  let s = seed;
-  return () => {
-    s = (s * 16807 + 0) % 2147483647;
-    return (s - 1) / 2147483646;
-  };
-}
 
 export default function CoralGrowth({ data }) {
   const canvasRef = useRef(null);
@@ -40,6 +32,7 @@ export default function CoralGrowth({ data }) {
 
     const ctx = canvas.getContext('2d');
     ctx.scale(2, 2);
+    ctx.clearRect(0, 0, WIDTH, HEIGHT);
     ctx.lineCap = 'round';
 
     const growthScale = scaleLinear()
