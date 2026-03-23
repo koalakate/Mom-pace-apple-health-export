@@ -1,6 +1,7 @@
 import ScrollySection from './components/ScrollySection';
 import theme from './styles/theme';
 import useSleepData from './hooks/useSleepData';
+import NightGrid from './components/NightGrid';
 
 const { phases } = theme.colors;
 
@@ -53,6 +54,23 @@ function App() {
           </>
         }
       />
+
+      <ScrollySection
+        phaseColor={null}
+        text={
+          <>
+            <h2 style={styles.heading}>Every Night, One Circle</h2>
+            <p>
+              1,652 nights. Each circle is one night of sleep.
+              Larger circles mean more hours. Fragmented circles
+              mean interrupted sleep. Watch how the grid breaks
+              apart after each birth.
+            </p>
+          </>
+        }
+      >
+        {!loading && data && <NightGrid data={data} />}
+      </ScrollySection>
     </main>
   );
 }
