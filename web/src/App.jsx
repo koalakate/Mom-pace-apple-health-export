@@ -1,9 +1,11 @@
 import ScrollySection from './components/ScrollySection';
 import theme from './styles/theme';
+import useSleepData from './hooks/useSleepData';
 
 const { phases } = theme.colors;
 
 function App() {
+  const { data, loading } = useSleepData();
   return (
     <main>
       <header style={styles.header}>
