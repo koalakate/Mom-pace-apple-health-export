@@ -2,6 +2,7 @@ import ScrollySection from './components/ScrollySection';
 import theme from './styles/theme';
 import useSleepData from './hooks/useSleepData';
 import NightGrid from './components/NightGrid';
+import Blanket from './components/Blanket';
 
 const { phases } = theme.colors;
 
@@ -70,6 +71,22 @@ function App() {
         }
       >
         {!loading && data && <NightGrid data={data} />}
+      </ScrollySection>
+
+      <ScrollySection
+        phaseColor={null}
+        text={
+          <>
+            <h2 style={styles.heading}>The Blanket</h2>
+            <p>
+              Each vertical stitch is one night. Smooth lines mean
+              unbroken sleep. Knots mark each awakening. Scroll
+              sideways to trace 4.7 years of nights.
+            </p>
+          </>
+        }
+      >
+        {!loading && data && <Blanket data={data} />}
       </ScrollySection>
     </main>
   );
