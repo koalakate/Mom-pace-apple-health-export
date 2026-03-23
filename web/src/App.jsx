@@ -3,6 +3,7 @@ import theme from './styles/theme';
 import useSleepData from './hooks/useSleepData';
 import NightGrid from './components/NightGrid';
 import Blanket from './components/Blanket';
+import Thread from './components/Thread';
 
 const { phases } = theme.colors;
 
@@ -87,6 +88,22 @@ function App() {
         }
       >
         {!loading && data && <Blanket data={data} />}
+      </ScrollySection>
+
+      <ScrollySection
+        phaseColor={null}
+        text={
+          <>
+            <h2 style={styles.heading}>The Thread</h2>
+            <p>
+              One unbroken line — 1,652 nights as a single thread
+              of life. Wide, smooth waves are restful sleep. Tight
+              tangles are nights shattered by awakenings.
+            </p>
+          </>
+        }
+      >
+        {!loading && data && <Thread data={data} />}
       </ScrollySection>
     </main>
   );
