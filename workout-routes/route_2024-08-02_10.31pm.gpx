@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2026-03-11T19:33:34Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2024-08-02 10:31pm</name>
+    <trkseg>
+      <trkpt lon="8.245501" lat="50.090782"><ele>161.016902</ele><time>2024-08-02T20:31:25Z</time><extensions><speed>1.137493</speed><course>104.310819</course><hAcc>2.491666</hAcc><vAcc>1.568500</vAcc></extensions></trkpt>
+      <trkpt lon="8.245516" lat="50.090780"><ele>161.013229</ele><time>2024-08-02T20:31:26Z</time><extensions><speed>1.078573</speed><course>105.061329</course><hAcc>2.133003</hAcc><vAcc>1.376700</vAcc></extensions></trkpt>
+      <trkpt lon="8.245531" lat="50.090777"><ele>161.010700</ele><time>2024-08-02T20:31:27Z</time><extensions><speed>1.072438</speed><course>105.214080</course><hAcc>1.926131</hAcc><vAcc>1.225578</vAcc></extensions></trkpt>
+      <trkpt lon="8.245545" lat="50.090775"><ele>161.014717</ele><time>2024-08-02T20:31:28Z</time><extensions><speed>1.120131</speed><course>104.701553</course><hAcc>1.813499</hAcc><vAcc>1.109379</vAcc></extensions></trkpt>
+      <trkpt lon="8.245561" lat="50.090772"><ele>161.021449</ele><time>2024-08-02T20:31:29Z</time><extensions><speed>1.189540</speed><course>103.860986</course><hAcc>1.755495</hAcc><vAcc>1.026757</vAcc></extensions></trkpt>
+      <trkpt lon="8.245578" lat="50.090770"><ele>161.027840</ele><time>2024-08-02T20:31:30Z</time><extensions><speed>1.245814</speed><course>103.332184</course><hAcc>1.726933</hAcc><vAcc>0.971467</vAcc></extensions></trkpt>
+      <trkpt lon="8.245595" lat="50.090767"><ele>161.034180</ele><time>2024-08-02T20:31:31Z</time><extensions><speed>1.251514</speed><course>102.806026</course><hAcc>1.713673</hAcc><vAcc>0.943563</vAcc></extensions></trkpt>
+      <trkpt lon="8.245612" lat="50.090765"><ele>161.040801</ele><time>2024-08-02T20:31:32Z</time><extensions><speed>1.239574</speed><course>102.123296</course><hAcc>1.710466</hAcc><vAcc>0.943082</vAcc></extensions></trkpt>
+      <trkpt lon="8.245628" lat="50.090762"><ele>161.048003</ele><time>2024-08-02T20:31:33Z</time><extensions><speed>1.211718</speed><course>102.327027</course><hAcc>1.717264</hAcc><vAcc>0.970058</vAcc></extensions></trkpt>
+      <trkpt lon="8.245645" lat="50.090760"><ele>161.055964</ele><time>2024-08-02T20:31:34Z</time><extensions><speed>1.218531</speed><course>103.146563</course><hAcc>1.747870</hAcc><vAcc>1.024512</vAcc></extensions></trkpt>
+      <trkpt lon="8.245661" lat="50.090757"><ele>161.064702</ele><time>2024-08-02T20:31:35Z</time><extensions><speed>1.175166</speed><course>104.349096</course><hAcc>1.806222</hAcc><vAcc>1.106429</vAcc></extensions></trkpt>
+      <trkpt lon="8.245677" lat="50.090755"><ele>161.074090</ele><time>2024-08-02T20:31:36Z</time><extensions><speed>1.149294</speed><course>104.794952</course><hAcc>1.897481</hAcc><vAcc>1.215715</vAcc></extensions></trkpt>
+      <trkpt lon="8.245693" lat="50.090752"><ele>161.083907</ele><time>2024-08-02T20:31:37Z</time><extensions><speed>1.192956</speed><course>103.419580</course><hAcc>2.079557</hAcc><vAcc>1.352131</vAcc></extensions></trkpt>
+      <trkpt lon="8.245709" lat="50.090750"><ele>161.093902</ele><time>2024-08-02T20:31:38Z</time><extensions><speed>1.169189</speed><course>101.651671</course><hAcc>2.463226</hAcc><vAcc>1.515211</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

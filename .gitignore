@@ -1,0 +1,5 @@
+node_modules/
+.DS_Store
+export.xml
+web/dist/
+web/node_modules/

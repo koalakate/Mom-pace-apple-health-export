@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Apple Health Export" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <time>2026-03-11T19:32:32Z</time>
+  </metadata>
+  <trk>
+    <name>Route 2023-03-01 4:55pm</name>
+    <trkseg>
+      <trkpt lon="8.247701" lat="50.090619"><ele>168.081178</ele><time>2023-03-01T15:55:20Z</time><extensions><speed>0.881446</speed><course>119.801300</course><hAcc>4.850267</hAcc><vAcc>3.209275</vAcc></extensions></trkpt>
+      <trkpt lon="8.247712" lat="50.090616"><ele>168.074035</ele><time>2023-03-01T15:55:21Z</time><extensions><speed>0.879093</speed><course>116.651904</course><hAcc>4.852911</hAcc><vAcc>3.205275</vAcc></extensions></trkpt>
+      <trkpt lon="8.247726" lat="50.090615"><ele>167.808764</ele><time>2023-03-01T15:55:22Z</time><extensions><speed>0.867938</speed><course>113.085640</course><hAcc>4.856539</hAcc><vAcc>3.199776</vAcc></extensions></trkpt>
+      <trkpt lon="8.247731" lat="50.090607"><ele>167.629674</ele><time>2023-03-01T15:55:23Z</time><extensions><speed>0.772102</speed><course>119.614701</course><hAcc>4.856790</hAcc><vAcc>3.199394</vAcc></extensions></trkpt>
+      <trkpt lon="8.247739" lat="50.090602"><ele>167.158791</ele><time>2023-03-01T15:55:24Z</time><extensions><speed>0.803433</speed><course>120.970968</course><hAcc>4.857143</hAcc><vAcc>3.198859</vAcc></extensions></trkpt>
+      <trkpt lon="8.247753" lat="50.090599"><ele>167.343012</ele><time>2023-03-01T15:55:25Z</time><extensions><speed>0.844104</speed><course>114.389309</course><hAcc>4.850688</hAcc><vAcc>3.208638</vAcc></extensions></trkpt>
+      <trkpt lon="8.247765" lat="50.090593"><ele>167.417695</ele><time>2023-03-01T15:55:26Z</time><extensions><speed>0.876827</speed><course>115.318602</course><hAcc>4.847618</hAcc><vAcc>3.213274</vAcc></extensions></trkpt>
+      <trkpt lon="8.247774" lat="50.090587"><ele>167.481262</ele><time>2023-03-01T15:55:27Z</time><extensions><speed>0.909833</speed><course>116.575748</course><hAcc>4.849365</hAcc><vAcc>3.210638</vAcc></extensions></trkpt>
+      <trkpt lon="8.247781" lat="50.090583"><ele>167.629211</ele><time>2023-03-01T15:55:28Z</time><extensions><speed>0.839791</speed><course>117.201632</course><hAcc>4.845734</hAcc><vAcc>3.216116</vAcc></extensions></trkpt>
+    </trkseg>
+  </trk>
+</gpx>

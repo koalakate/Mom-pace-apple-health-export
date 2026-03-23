@@ -1,0 +1,9586 @@
+[
+  {
+    "night_date":"2022-09-25",
+    "Core":2.7,
+    "Deep":0.62,
+    "REM":1.08,
+    "total_staged":4.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-09-26",
+    "Core":3.69,
+    "Deep":0.83,
+    "REM":1.75,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-09-27",
+    "Core":2.48,
+    "Deep":0.98,
+    "REM":0.66,
+    "total_staged":4.11,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-09-28",
+    "Core":2.96,
+    "Deep":0.64,
+    "REM":0.32,
+    "total_staged":3.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-09-29",
+    "Core":4.2,
+    "Deep":0.59,
+    "REM":1.18,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-09-30",
+    "Core":3.06,
+    "Deep":0.81,
+    "REM":0.54,
+    "total_staged":4.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-01",
+    "Core":2.65,
+    "Deep":0.97,
+    "REM":1.2,
+    "total_staged":4.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-02",
+    "Core":3.36,
+    "Deep":0.45,
+    "REM":1.38,
+    "total_staged":5.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-03",
+    "Core":3.73,
+    "Deep":0.82,
+    "REM":1.24,
+    "total_staged":5.79,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-04",
+    "Core":3.13,
+    "Deep":1.01,
+    "REM":1.58,
+    "total_staged":5.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-05",
+    "Core":3.62,
+    "Deep":0.59,
+    "REM":2.15,
+    "total_staged":6.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-06",
+    "Core":2.99,
+    "Deep":0.96,
+    "REM":1.43,
+    "total_staged":5.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-07",
+    "Core":3.68,
+    "Deep":0.81,
+    "REM":1.76,
+    "total_staged":6.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-08",
+    "Core":2.98,
+    "Deep":0.32,
+    "REM":1.37,
+    "total_staged":4.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-09",
+    "Core":4.73,
+    "Deep":0.99,
+    "REM":1.92,
+    "total_staged":7.65,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-10",
+    "Core":3.92,
+    "Deep":0.87,
+    "REM":1.58,
+    "total_staged":6.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-11",
+    "Core":3.45,
+    "Deep":1.11,
+    "REM":1.84,
+    "total_staged":6.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-12",
+    "Core":2.12,
+    "Deep":0.72,
+    "REM":0.89,
+    "total_staged":3.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-13",
+    "Core":4.33,
+    "Deep":0.61,
+    "REM":2.29,
+    "total_staged":7.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-14",
+    "Core":2.39,
+    "Deep":1.0,
+    "REM":0.88,
+    "total_staged":4.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-15",
+    "Core":3.4,
+    "Deep":1.31,
+    "REM":2.29,
+    "total_staged":7.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-16",
+    "Core":3.1,
+    "Deep":0.88,
+    "REM":1.48,
+    "total_staged":5.46,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-17",
+    "Core":4.4,
+    "Deep":0.78,
+    "REM":1.16,
+    "total_staged":6.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-18",
+    "Core":2.85,
+    "Deep":1.28,
+    "REM":1.29,
+    "total_staged":5.43,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-19",
+    "Core":2.49,
+    "Deep":1.06,
+    "REM":1.16,
+    "total_staged":4.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-20",
+    "Core":2.78,
+    "Deep":0.98,
+    "REM":1.42,
+    "total_staged":5.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-21",
+    "Core":2.51,
+    "Deep":1.09,
+    "REM":1.14,
+    "total_staged":4.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-22",
+    "Core":2.64,
+    "Deep":0.92,
+    "REM":1.13,
+    "total_staged":4.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-23",
+    "Core":2.26,
+    "Deep":0.7,
+    "REM":0.63,
+    "total_staged":3.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-24",
+    "Core":2.2,
+    "Deep":0.83,
+    "REM":1.02,
+    "total_staged":4.06,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-25",
+    "Core":2.07,
+    "Deep":1.3,
+    "REM":1.05,
+    "total_staged":4.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-26",
+    "Core":3.53,
+    "Deep":0.97,
+    "REM":1.61,
+    "total_staged":6.11,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-27",
+    "Core":3.27,
+    "Deep":0.89,
+    "REM":0.98,
+    "total_staged":5.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-28",
+    "Core":2.03,
+    "Deep":1.08,
+    "REM":0.43,
+    "total_staged":3.54,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-29",
+    "Core":3.43,
+    "Deep":0.36,
+    "REM":1.32,
+    "total_staged":5.11,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-30",
+    "Core":3.92,
+    "Deep":1.08,
+    "REM":1.6,
+    "total_staged":6.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-10-31",
+    "Core":3.31,
+    "Deep":0.88,
+    "REM":1.38,
+    "total_staged":5.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-01",
+    "Core":2.62,
+    "Deep":0.69,
+    "REM":1.48,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-02",
+    "Core":3.28,
+    "Deep":0.83,
+    "REM":1.89,
+    "total_staged":6.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-03",
+    "Core":3.24,
+    "Deep":0.64,
+    "REM":1.26,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-05",
+    "Core":3.22,
+    "Deep":0.48,
+    "REM":1.32,
+    "total_staged":5.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-07",
+    "Core":3.11,
+    "Deep":0.9,
+    "REM":1.65,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-08",
+    "Core":3.34,
+    "Deep":0.48,
+    "REM":1.35,
+    "total_staged":5.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-09",
+    "Core":3.18,
+    "Deep":1.09,
+    "REM":1.34,
+    "total_staged":5.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-10",
+    "Core":1.51,
+    "Deep":0.92,
+    "REM":0.7,
+    "total_staged":3.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-11",
+    "Core":2.65,
+    "Deep":0.85,
+    "REM":1.27,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-12",
+    "Core":3.61,
+    "Deep":0.5,
+    "REM":1.23,
+    "total_staged":5.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-13",
+    "Core":2.38,
+    "Deep":0.65,
+    "REM":1.08,
+    "total_staged":4.1,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-14",
+    "Core":2.29,
+    "Deep":1.34,
+    "REM":1.38,
+    "total_staged":5.01,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-15",
+    "Core":2.68,
+    "Deep":0.9,
+    "REM":1.35,
+    "total_staged":4.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-16",
+    "Core":3.28,
+    "Deep":1.05,
+    "REM":1.39,
+    "total_staged":5.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-17",
+    "Core":3.27,
+    "Deep":0.79,
+    "REM":1.39,
+    "total_staged":5.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-18",
+    "Core":3.12,
+    "Deep":0.86,
+    "REM":1.14,
+    "total_staged":5.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-19",
+    "Core":2.05,
+    "Deep":1.18,
+    "REM":0.9,
+    "total_staged":4.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-20",
+    "Core":2.54,
+    "Deep":1.27,
+    "REM":1.54,
+    "total_staged":5.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-21",
+    "Core":4.06,
+    "Deep":0.78,
+    "REM":1.87,
+    "total_staged":6.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-22",
+    "Core":4.4,
+    "Deep":0.63,
+    "REM":1.86,
+    "total_staged":6.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-23",
+    "Core":2.25,
+    "Deep":0.75,
+    "REM":1.64,
+    "total_staged":4.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-24",
+    "Core":3.77,
+    "Deep":0.5,
+    "REM":1.88,
+    "total_staged":6.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-25",
+    "Core":3.82,
+    "Deep":0.84,
+    "REM":0.98,
+    "total_staged":5.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-26",
+    "Core":3.88,
+    "Deep":0.86,
+    "REM":1.03,
+    "total_staged":5.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-28",
+    "Core":3.42,
+    "Deep":1.08,
+    "REM":1.73,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-29",
+    "Core":4.32,
+    "Deep":0.93,
+    "REM":1.72,
+    "total_staged":6.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-11-30",
+    "Core":3.98,
+    "Deep":0.9,
+    "REM":1.44,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-01",
+    "Core":2.97,
+    "Deep":0.9,
+    "REM":1.54,
+    "total_staged":5.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-02",
+    "Core":2.33,
+    "Deep":0.88,
+    "REM":1.19,
+    "total_staged":4.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-03",
+    "Core":2.69,
+    "Deep":0.73,
+    "REM":1.5,
+    "total_staged":4.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-04",
+    "Core":3.82,
+    "Deep":1.08,
+    "REM":1.43,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-05",
+    "Core":3.86,
+    "Deep":0.64,
+    "REM":0.55,
+    "total_staged":5.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-07",
+    "Core":3.62,
+    "Deep":1.11,
+    "REM":1.57,
+    "total_staged":6.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-08",
+    "Core":2.65,
+    "Deep":0.95,
+    "REM":1.47,
+    "total_staged":5.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-09",
+    "Core":1.73,
+    "Deep":1.14,
+    "REM":0.53,
+    "total_staged":3.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-10",
+    "Core":2.34,
+    "Deep":1.33,
+    "REM":0.57,
+    "total_staged":4.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-11",
+    "Core":3.46,
+    "Deep":0.93,
+    "REM":1.43,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-12",
+    "Core":3.14,
+    "Deep":0.92,
+    "REM":1.4,
+    "total_staged":5.47,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-13",
+    "Core":1.8,
+    "Deep":0.68,
+    "REM":0.7,
+    "total_staged":3.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-14",
+    "Core":2.3,
+    "Deep":0.67,
+    "REM":0.6,
+    "total_staged":3.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-15",
+    "Core":2.73,
+    "Deep":0.98,
+    "REM":1.01,
+    "total_staged":4.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-16",
+    "Core":2.46,
+    "Deep":0.84,
+    "REM":0.53,
+    "total_staged":3.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-17",
+    "Core":3.08,
+    "Deep":0.46,
+    "REM":1.3,
+    "total_staged":4.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-18",
+    "Core":4.02,
+    "Deep":1.35,
+    "REM":1.3,
+    "total_staged":6.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-19",
+    "Core":2.9,
+    "Deep":0.85,
+    "REM":1.68,
+    "total_staged":5.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-20",
+    "Core":3.82,
+    "Deep":0.52,
+    "REM":1.42,
+    "total_staged":5.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-21",
+    "Core":3.88,
+    "Deep":0.25,
+    "REM":0.53,
+    "total_staged":4.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-22",
+    "Core":3.57,
+    "Deep":0.83,
+    "REM":1.84,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-24",
+    "Core":3.24,
+    "Deep":0.62,
+    "REM":1.52,
+    "total_staged":5.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-25",
+    "Core":3.25,
+    "Deep":0.58,
+    "REM":1.82,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-26",
+    "Core":3.91,
+    "Deep":0.56,
+    "REM":2.17,
+    "total_staged":6.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-27",
+    "Core":3.14,
+    "Deep":0.88,
+    "REM":1.27,
+    "total_staged":5.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-28",
+    "Core":2.82,
+    "Deep":0.57,
+    "REM":0.5,
+    "total_staged":3.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-29",
+    "Core":3.22,
+    "Deep":1.11,
+    "REM":1.75,
+    "total_staged":6.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2022-12-30",
+    "Core":2.51,
+    "Deep":0.61,
+    "REM":1.21,
+    "total_staged":4.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-02",
+    "Core":3.0,
+    "Deep":0.74,
+    "REM":1.42,
+    "total_staged":5.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-04",
+    "Core":4.1,
+    "Deep":0.81,
+    "REM":1.38,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-05",
+    "Core":5.98,
+    "Deep":0.69,
+    "REM":0.78,
+    "total_staged":7.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-06",
+    "Core":5.12,
+    "Deep":0.84,
+    "REM":1.62,
+    "total_staged":7.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-07",
+    "Core":1.77,
+    "Deep":1.21,
+    "REM":0.66,
+    "total_staged":3.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-08",
+    "Core":4.93,
+    "Deep":0.95,
+    "REM":1.32,
+    "total_staged":7.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-09",
+    "Core":3.57,
+    "Deep":0.97,
+    "REM":1.68,
+    "total_staged":6.21,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-11",
+    "Core":2.69,
+    "Deep":0.48,
+    "REM":1.46,
+    "total_staged":4.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-13",
+    "Core":3.32,
+    "Deep":0.7,
+    "REM":1.67,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-14",
+    "Core":3.65,
+    "Deep":1.04,
+    "REM":1.38,
+    "total_staged":6.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-15",
+    "Core":2.58,
+    "Deep":0.96,
+    "REM":1.43,
+    "total_staged":4.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-16",
+    "Core":3.37,
+    "Deep":0.89,
+    "REM":1.51,
+    "total_staged":5.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-17",
+    "Core":3.19,
+    "Deep":0.44,
+    "REM":0.76,
+    "total_staged":4.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-18",
+    "Core":3.96,
+    "Deep":0.72,
+    "REM":1.77,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-19",
+    "Core":2.66,
+    "Deep":0.68,
+    "REM":1.41,
+    "total_staged":4.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-21",
+    "Core":3.38,
+    "Deep":0.49,
+    "REM":0.92,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-22",
+    "Core":3.97,
+    "Deep":0.79,
+    "REM":1.88,
+    "total_staged":6.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-23",
+    "Core":3.11,
+    "Deep":0.71,
+    "REM":1.98,
+    "total_staged":5.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-24",
+    "Core":3.25,
+    "Deep":0.69,
+    "REM":1.46,
+    "total_staged":5.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-25",
+    "Core":3.7,
+    "Deep":0.91,
+    "REM":1.82,
+    "total_staged":6.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-26",
+    "Core":3.47,
+    "Deep":0.7,
+    "REM":1.23,
+    "total_staged":5.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-27",
+    "Core":2.08,
+    "Deep":1.34,
+    "REM":1.21,
+    "total_staged":4.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-28",
+    "Core":2.92,
+    "Deep":0.9,
+    "REM":1.32,
+    "total_staged":5.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-29",
+    "Core":3.38,
+    "Deep":0.78,
+    "REM":1.54,
+    "total_staged":5.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-30",
+    "Core":3.45,
+    "Deep":0.67,
+    "REM":1.07,
+    "total_staged":5.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-01-31",
+    "Core":2.7,
+    "Deep":0.87,
+    "REM":1.77,
+    "total_staged":5.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-01",
+    "Core":3.06,
+    "Deep":0.98,
+    "REM":1.1,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-02",
+    "Core":3.99,
+    "Deep":0.54,
+    "REM":0.87,
+    "total_staged":5.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-03",
+    "Core":3.8,
+    "Deep":0.58,
+    "REM":1.06,
+    "total_staged":5.44,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-04",
+    "Core":4.53,
+    "Deep":0.66,
+    "REM":1.62,
+    "total_staged":6.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-05",
+    "Core":4.53,
+    "Deep":0.92,
+    "REM":1.34,
+    "total_staged":6.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-06",
+    "Core":3.57,
+    "Deep":0.99,
+    "REM":1.79,
+    "total_staged":6.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-08",
+    "Core":4.51,
+    "Deep":0.82,
+    "REM":2.16,
+    "total_staged":7.49,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-09",
+    "Core":3.62,
+    "Deep":0.64,
+    "REM":1.58,
+    "total_staged":5.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-10",
+    "Core":2.28,
+    "Deep":0.65,
+    "REM":0.93,
+    "total_staged":3.86,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-11",
+    "Core":4.24,
+    "Deep":0.72,
+    "REM":1.42,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-12",
+    "Core":3.38,
+    "Deep":0.57,
+    "REM":1.17,
+    "total_staged":5.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-13",
+    "Core":3.88,
+    "Deep":0.68,
+    "REM":0.89,
+    "total_staged":5.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-14",
+    "Core":3.67,
+    "Deep":1.0,
+    "REM":1.74,
+    "total_staged":6.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-15",
+    "Core":3.65,
+    "Deep":0.89,
+    "REM":1.7,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-16",
+    "Core":3.07,
+    "Deep":1.12,
+    "REM":1.13,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-17",
+    "Core":3.43,
+    "Deep":1.03,
+    "REM":1.47,
+    "total_staged":5.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-18",
+    "Core":3.78,
+    "Deep":0.88,
+    "REM":1.08,
+    "total_staged":5.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-19",
+    "Core":3.22,
+    "Deep":1.22,
+    "REM":1.92,
+    "total_staged":6.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-20",
+    "Core":3.98,
+    "Deep":0.94,
+    "REM":1.43,
+    "total_staged":6.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-21",
+    "Core":3.95,
+    "Deep":1.0,
+    "REM":1.58,
+    "total_staged":6.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-22",
+    "Core":3.32,
+    "Deep":0.71,
+    "REM":0.92,
+    "total_staged":4.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-23",
+    "Core":4.32,
+    "Deep":0.76,
+    "REM":1.62,
+    "total_staged":6.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-24",
+    "Core":4.35,
+    "Deep":1.02,
+    "REM":1.5,
+    "total_staged":6.88,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-25",
+    "Core":4.39,
+    "Deep":0.99,
+    "REM":1.68,
+    "total_staged":7.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-26",
+    "Core":4.01,
+    "Deep":0.71,
+    "REM":1.56,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-02-27",
+    "Core":4.53,
+    "Deep":0.39,
+    "REM":1.53,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-01",
+    "Core":2.03,
+    "Deep":0.72,
+    "REM":0.49,
+    "total_staged":3.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-02",
+    "Core":2.89,
+    "Deep":0.51,
+    "REM":0.74,
+    "total_staged":4.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-03",
+    "Core":2.76,
+    "Deep":1.26,
+    "REM":1.74,
+    "total_staged":5.76,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-04",
+    "Core":3.57,
+    "Deep":0.38,
+    "REM":1.11,
+    "total_staged":5.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-05",
+    "Core":3.32,
+    "Deep":1.43,
+    "REM":1.31,
+    "total_staged":6.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-06",
+    "Core":3.6,
+    "Deep":0.56,
+    "REM":1.7,
+    "total_staged":5.86,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-07",
+    "Core":3.62,
+    "Deep":1.14,
+    "REM":0.89,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-08",
+    "Core":2.86,
+    "Deep":0.61,
+    "REM":1.34,
+    "total_staged":4.81,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-09",
+    "Core":3.34,
+    "Deep":1.23,
+    "REM":0.91,
+    "total_staged":5.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-10",
+    "Core":3.02,
+    "Deep":0.68,
+    "REM":1.15,
+    "total_staged":4.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-11",
+    "Core":2.23,
+    "Deep":0.65,
+    "REM":1.1,
+    "total_staged":3.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-12",
+    "Core":3.94,
+    "Deep":1.03,
+    "REM":1.35,
+    "total_staged":6.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-13",
+    "Core":3.43,
+    "Deep":0.79,
+    "REM":1.42,
+    "total_staged":5.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-14",
+    "Core":4.53,
+    "Deep":0.62,
+    "REM":1.23,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-15",
+    "Core":4.72,
+    "Deep":0.74,
+    "REM":1.68,
+    "total_staged":7.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-16",
+    "Core":4.28,
+    "Deep":0.94,
+    "REM":1.1,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-17",
+    "Core":3.53,
+    "Deep":0.88,
+    "REM":1.41,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-18",
+    "Core":4.19,
+    "Deep":0.68,
+    "REM":1.43,
+    "total_staged":6.31,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-19",
+    "Core":3.62,
+    "Deep":1.01,
+    "REM":1.24,
+    "total_staged":5.88,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-20",
+    "Core":3.29,
+    "Deep":1.04,
+    "REM":1.88,
+    "total_staged":6.21,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-21",
+    "Core":4.42,
+    "Deep":0.84,
+    "REM":1.2,
+    "total_staged":6.46,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-22",
+    "Core":2.94,
+    "Deep":1.16,
+    "REM":1.52,
+    "total_staged":5.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-23",
+    "Core":3.02,
+    "Deep":1.21,
+    "REM":1.46,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-24",
+    "Core":4.09,
+    "Deep":0.58,
+    "REM":1.26,
+    "total_staged":5.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-25",
+    "Core":3.71,
+    "Deep":1.12,
+    "REM":1.62,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-26",
+    "Core":3.44,
+    "Deep":1.15,
+    "REM":1.3,
+    "total_staged":5.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-27",
+    "Core":3.86,
+    "Deep":0.5,
+    "REM":1.33,
+    "total_staged":5.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-28",
+    "Core":3.39,
+    "Deep":0.84,
+    "REM":1.57,
+    "total_staged":5.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-29",
+    "Core":3.32,
+    "Deep":0.43,
+    "REM":1.45,
+    "total_staged":5.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-30",
+    "Core":4.13,
+    "Deep":0.94,
+    "REM":1.52,
+    "total_staged":6.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-03-31",
+    "Core":4.4,
+    "Deep":0.98,
+    "REM":1.81,
+    "total_staged":7.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-01",
+    "Core":3.38,
+    "Deep":0.91,
+    "REM":1.18,
+    "total_staged":5.47,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-02",
+    "Core":2.61,
+    "Deep":0.86,
+    "REM":1.2,
+    "total_staged":4.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-03",
+    "Core":3.4,
+    "Deep":0.68,
+    "REM":1.37,
+    "total_staged":5.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-04",
+    "Core":3.03,
+    "Deep":0.82,
+    "REM":1.22,
+    "total_staged":5.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-05",
+    "Core":3.72,
+    "Deep":0.82,
+    "REM":1.2,
+    "total_staged":5.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-06",
+    "Core":3.28,
+    "Deep":1.14,
+    "REM":1.75,
+    "total_staged":6.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-07",
+    "Core":3.99,
+    "Deep":0.9,
+    "REM":1.36,
+    "total_staged":6.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-08",
+    "Core":4.78,
+    "Deep":0.6,
+    "REM":1.18,
+    "total_staged":6.56,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-09",
+    "Core":3.47,
+    "Deep":1.04,
+    "REM":1.3,
+    "total_staged":5.81,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-10",
+    "Core":2.87,
+    "Deep":0.92,
+    "REM":1.04,
+    "total_staged":4.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-11",
+    "Core":4.28,
+    "Deep":0.63,
+    "REM":1.45,
+    "total_staged":6.36,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-12",
+    "Core":2.88,
+    "Deep":1.29,
+    "REM":1.7,
+    "total_staged":5.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-13",
+    "Core":2.6,
+    "Deep":1.13,
+    "REM":0.81,
+    "total_staged":4.54,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-14",
+    "Core":2.61,
+    "Deep":0.94,
+    "REM":1.28,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-15",
+    "Core":3.06,
+    "Deep":0.99,
+    "REM":0.96,
+    "total_staged":5.01,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-16",
+    "Core":2.02,
+    "Deep":1.04,
+    "REM":1.17,
+    "total_staged":4.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-17",
+    "Core":4.21,
+    "Deep":0.79,
+    "REM":1.97,
+    "total_staged":6.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-18",
+    "Core":4.13,
+    "Deep":0.73,
+    "REM":1.12,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-19",
+    "Core":3.58,
+    "Deep":0.48,
+    "REM":1.27,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-20",
+    "Core":3.12,
+    "Deep":0.58,
+    "REM":1.64,
+    "total_staged":5.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-21",
+    "Core":3.61,
+    "Deep":0.83,
+    "REM":1.64,
+    "total_staged":6.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-22",
+    "Core":3.14,
+    "Deep":0.37,
+    "REM":0.52,
+    "total_staged":4.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-23",
+    "Core":4.86,
+    "Deep":0.82,
+    "REM":1.88,
+    "total_staged":7.55,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-24",
+    "Core":4.37,
+    "Deep":0.88,
+    "REM":1.13,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-25",
+    "Core":2.86,
+    "Deep":0.96,
+    "REM":2.22,
+    "total_staged":6.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-26",
+    "Core":2.94,
+    "Deep":0.82,
+    "REM":1.45,
+    "total_staged":5.22,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-27",
+    "Core":3.51,
+    "Deep":0.87,
+    "REM":1.11,
+    "total_staged":5.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-28",
+    "Core":4.64,
+    "Deep":0.84,
+    "REM":2.0,
+    "total_staged":7.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-29",
+    "Core":2.48,
+    "Deep":0.68,
+    "REM":1.2,
+    "total_staged":4.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-04-30",
+    "Core":3.69,
+    "Deep":1.02,
+    "REM":0.76,
+    "total_staged":5.47,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-01",
+    "Core":3.76,
+    "Deep":0.92,
+    "REM":1.67,
+    "total_staged":6.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-02",
+    "Core":3.02,
+    "Deep":0.51,
+    "REM":1.62,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-03",
+    "Core":2.99,
+    "Deep":1.03,
+    "REM":2.06,
+    "total_staged":6.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-04",
+    "Core":3.04,
+    "Deep":0.84,
+    "REM":1.14,
+    "total_staged":5.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-05",
+    "Core":2.91,
+    "Deep":0.78,
+    "REM":1.28,
+    "total_staged":4.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-06",
+    "Core":3.97,
+    "Deep":0.79,
+    "REM":1.48,
+    "total_staged":6.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-07",
+    "Core":3.16,
+    "Deep":1.01,
+    "REM":1.84,
+    "total_staged":6.01,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-08",
+    "Core":3.62,
+    "Deep":0.96,
+    "REM":1.95,
+    "total_staged":6.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-09",
+    "Core":3.62,
+    "Deep":0.32,
+    "REM":1.44,
+    "total_staged":5.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-10",
+    "Core":3.53,
+    "Deep":0.29,
+    "REM":1.36,
+    "total_staged":5.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-11",
+    "Core":3.23,
+    "Deep":0.69,
+    "REM":1.59,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-12",
+    "Core":3.22,
+    "Deep":1.39,
+    "REM":1.49,
+    "total_staged":6.1,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-13",
+    "Core":3.51,
+    "Deep":1.05,
+    "REM":1.77,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-14",
+    "Core":4.44,
+    "Deep":0.53,
+    "REM":2.27,
+    "total_staged":7.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-15",
+    "Core":3.92,
+    "Deep":0.9,
+    "REM":1.58,
+    "total_staged":6.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-16",
+    "Core":3.33,
+    "Deep":0.88,
+    "REM":1.04,
+    "total_staged":5.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-17",
+    "Core":2.16,
+    "Deep":0.88,
+    "REM":1.12,
+    "total_staged":4.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-18",
+    "Core":3.76,
+    "Deep":1.05,
+    "REM":1.61,
+    "total_staged":6.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-19",
+    "Core":2.31,
+    "Deep":1.23,
+    "REM":1.56,
+    "total_staged":5.09,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-20",
+    "Core":3.7,
+    "Deep":0.7,
+    "REM":1.87,
+    "total_staged":6.27,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-21",
+    "Core":4.87,
+    "Deep":0.74,
+    "REM":2.08,
+    "total_staged":7.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-22",
+    "Core":3.64,
+    "Deep":0.62,
+    "REM":1.12,
+    "total_staged":5.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-23",
+    "Core":3.17,
+    "Deep":1.06,
+    "REM":0.58,
+    "total_staged":4.81,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-24",
+    "Core":3.96,
+    "Deep":0.64,
+    "REM":1.65,
+    "total_staged":6.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-25",
+    "Core":4.47,
+    "Deep":0.99,
+    "REM":1.14,
+    "total_staged":6.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-26",
+    "Core":4.74,
+    "Deep":0.69,
+    "REM":1.92,
+    "total_staged":7.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-27",
+    "Core":3.01,
+    "Deep":1.0,
+    "REM":1.39,
+    "total_staged":5.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-28",
+    "Core":5.28,
+    "Deep":0.74,
+    "REM":1.16,
+    "total_staged":7.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-29",
+    "Core":2.63,
+    "Deep":0.95,
+    "REM":1.77,
+    "total_staged":5.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-30",
+    "Core":4.45,
+    "Deep":0.52,
+    "REM":1.77,
+    "total_staged":6.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-05-31",
+    "Core":4.47,
+    "Deep":0.72,
+    "REM":1.58,
+    "total_staged":6.76,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-01",
+    "Core":2.42,
+    "Deep":1.27,
+    "REM":1.12,
+    "total_staged":4.81,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-02",
+    "Core":4.26,
+    "Deep":1.14,
+    "REM":2.09,
+    "total_staged":7.49,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-03",
+    "Core":3.79,
+    "Deep":0.93,
+    "REM":1.61,
+    "total_staged":6.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-04",
+    "Core":3.84,
+    "Deep":0.57,
+    "REM":0.92,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-05",
+    "Core":2.58,
+    "Deep":0.69,
+    "REM":1.25,
+    "total_staged":4.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-06",
+    "Core":4.53,
+    "Deep":1.09,
+    "REM":2.08,
+    "total_staged":7.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-07",
+    "Core":4.2,
+    "Deep":0.36,
+    "REM":0.92,
+    "total_staged":5.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-08",
+    "Core":2.92,
+    "Deep":0.89,
+    "REM":0.82,
+    "total_staged":4.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-09",
+    "Core":3.85,
+    "Deep":0.76,
+    "REM":1.23,
+    "total_staged":5.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-11",
+    "Core":4.67,
+    "Deep":0.98,
+    "REM":2.01,
+    "total_staged":7.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-12",
+    "Core":4.22,
+    "Deep":0.52,
+    "REM":1.72,
+    "total_staged":6.46,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-13",
+    "Core":4.88,
+    "Deep":0.7,
+    "REM":2.0,
+    "total_staged":7.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-14",
+    "Core":4.12,
+    "Deep":0.72,
+    "REM":1.6,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-15",
+    "Core":4.57,
+    "Deep":1.17,
+    "REM":1.5,
+    "total_staged":7.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-16",
+    "Core":3.67,
+    "Deep":0.98,
+    "REM":1.39,
+    "total_staged":6.04,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-17",
+    "Core":3.59,
+    "Deep":1.02,
+    "REM":1.61,
+    "total_staged":6.22,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-18",
+    "Core":3.86,
+    "Deep":0.93,
+    "REM":1.55,
+    "total_staged":6.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-19",
+    "Core":2.42,
+    "Deep":1.22,
+    "REM":1.19,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-20",
+    "Core":4.71,
+    "Deep":0.9,
+    "REM":1.18,
+    "total_staged":6.79,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-21",
+    "Core":4.59,
+    "Deep":0.74,
+    "REM":1.51,
+    "total_staged":6.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-22",
+    "Core":2.92,
+    "Deep":0.73,
+    "REM":1.27,
+    "total_staged":4.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-23",
+    "Core":3.54,
+    "Deep":1.1,
+    "REM":1.02,
+    "total_staged":5.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-24",
+    "Core":2.45,
+    "Deep":1.05,
+    "REM":0.72,
+    "total_staged":4.22,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-25",
+    "Core":4.44,
+    "Deep":0.54,
+    "REM":1.02,
+    "total_staged":6.01,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-26",
+    "Core":4.54,
+    "Deep":0.98,
+    "REM":0.88,
+    "total_staged":6.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-27",
+    "Core":3.57,
+    "Deep":0.89,
+    "REM":1.03,
+    "total_staged":5.49,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-28",
+    "Core":3.8,
+    "Deep":0.72,
+    "REM":2.08,
+    "total_staged":6.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-29",
+    "Core":4.71,
+    "Deep":0.64,
+    "REM":1.51,
+    "total_staged":6.86,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-06-30",
+    "Core":4.03,
+    "Deep":0.72,
+    "REM":0.72,
+    "total_staged":5.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-01",
+    "Core":4.49,
+    "Deep":0.92,
+    "REM":0.87,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-02",
+    "Core":3.37,
+    "Deep":1.12,
+    "REM":1.69,
+    "total_staged":6.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-03",
+    "Core":4.01,
+    "Deep":1.02,
+    "REM":1.25,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-04",
+    "Core":3.62,
+    "Deep":1.02,
+    "REM":1.19,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-05",
+    "Core":3.58,
+    "Deep":1.12,
+    "REM":1.25,
+    "total_staged":5.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-06",
+    "Core":4.47,
+    "Deep":0.51,
+    "REM":1.5,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-07",
+    "Core":4.4,
+    "Deep":1.08,
+    "REM":1.66,
+    "total_staged":7.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-08",
+    "Core":4.19,
+    "Deep":0.94,
+    "REM":1.48,
+    "total_staged":6.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-09",
+    "Core":3.89,
+    "Deep":0.66,
+    "REM":1.78,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-10",
+    "Core":3.57,
+    "Deep":0.93,
+    "REM":2.0,
+    "total_staged":6.5,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-11",
+    "Core":4.59,
+    "Deep":1.08,
+    "REM":1.45,
+    "total_staged":7.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-12",
+    "Core":4.33,
+    "Deep":0.76,
+    "REM":1.38,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-13",
+    "Core":3.6,
+    "Deep":1.22,
+    "REM":1.78,
+    "total_staged":6.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-14",
+    "Core":3.32,
+    "Deep":0.44,
+    "REM":0.94,
+    "total_staged":4.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-15",
+    "Core":4.58,
+    "Deep":0.49,
+    "REM":0.7,
+    "total_staged":5.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-16",
+    "Core":4.87,
+    "Deep":0.46,
+    "REM":1.88,
+    "total_staged":7.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-17",
+    "Core":3.98,
+    "Deep":0.95,
+    "REM":1.95,
+    "total_staged":6.88,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-18",
+    "Core":2.78,
+    "Deep":0.88,
+    "REM":1.3,
+    "total_staged":4.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-19",
+    "Core":4.04,
+    "Deep":0.72,
+    "REM":1.54,
+    "total_staged":6.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-20",
+    "Core":3.34,
+    "Deep":1.16,
+    "REM":1.05,
+    "total_staged":5.55,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-21",
+    "Core":2.11,
+    "Deep":0.86,
+    "REM":0.78,
+    "total_staged":3.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-22",
+    "Core":3.32,
+    "Deep":0.84,
+    "REM":1.18,
+    "total_staged":5.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-23",
+    "Core":4.57,
+    "Deep":0.33,
+    "REM":1.61,
+    "total_staged":6.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-24",
+    "Core":5.04,
+    "Deep":0.72,
+    "REM":1.48,
+    "total_staged":7.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-25",
+    "Core":4.79,
+    "Deep":0.66,
+    "REM":1.55,
+    "total_staged":7.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-26",
+    "Core":3.04,
+    "Deep":1.45,
+    "REM":2.09,
+    "total_staged":6.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-27",
+    "Core":2.42,
+    "Deep":0.84,
+    "REM":1.2,
+    "total_staged":4.46,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-28",
+    "Core":3.48,
+    "Deep":1.08,
+    "REM":1.23,
+    "total_staged":5.79,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-30",
+    "Core":3.42,
+    "Deep":0.98,
+    "REM":1.56,
+    "total_staged":5.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-07-31",
+    "Core":3.76,
+    "Deep":1.23,
+    "REM":1.18,
+    "total_staged":6.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-01",
+    "Core":3.45,
+    "Deep":0.91,
+    "REM":1.63,
+    "total_staged":5.99,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-02",
+    "Core":3.36,
+    "Deep":0.57,
+    "REM":1.52,
+    "total_staged":5.46,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-03",
+    "Core":3.33,
+    "Deep":0.92,
+    "REM":0.53,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-04",
+    "Core":3.71,
+    "Deep":1.0,
+    "REM":1.14,
+    "total_staged":5.85,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-05",
+    "Core":2.73,
+    "Deep":1.08,
+    "REM":1.08,
+    "total_staged":4.9,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-06",
+    "Core":3.56,
+    "Deep":0.88,
+    "REM":1.16,
+    "total_staged":5.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-07",
+    "Core":3.25,
+    "Deep":1.27,
+    "REM":1.47,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-08",
+    "Core":4.64,
+    "Deep":1.02,
+    "REM":1.43,
+    "total_staged":7.09,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-09",
+    "Core":4.65,
+    "Deep":0.66,
+    "REM":1.08,
+    "total_staged":6.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-10",
+    "Core":3.61,
+    "Deep":1.28,
+    "REM":1.84,
+    "total_staged":6.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-11",
+    "Core":3.75,
+    "Deep":0.56,
+    "REM":1.18,
+    "total_staged":5.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-12",
+    "Core":4.66,
+    "Deep":0.81,
+    "REM":1.42,
+    "total_staged":6.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-13",
+    "Core":4.56,
+    "Deep":0.62,
+    "REM":1.5,
+    "total_staged":6.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-14",
+    "Core":4.49,
+    "Deep":0.99,
+    "REM":1.57,
+    "total_staged":7.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-15",
+    "Core":4.28,
+    "Deep":0.92,
+    "REM":0.95,
+    "total_staged":6.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-16",
+    "Core":3.33,
+    "Deep":0.68,
+    "REM":1.42,
+    "total_staged":5.43,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-17",
+    "Core":2.31,
+    "Deep":0.63,
+    "REM":0.75,
+    "total_staged":3.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-18",
+    "Core":4.09,
+    "Deep":1.11,
+    "REM":1.35,
+    "total_staged":6.55,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-19",
+    "Core":2.04,
+    "Deep":0.84,
+    "REM":0.78,
+    "total_staged":3.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-20",
+    "Core":2.88,
+    "Deep":1.16,
+    "REM":1.85,
+    "total_staged":5.88,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-21",
+    "Core":3.81,
+    "Deep":0.75,
+    "REM":1.14,
+    "total_staged":5.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-22",
+    "Core":3.38,
+    "Deep":1.11,
+    "REM":1.36,
+    "total_staged":5.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-23",
+    "Core":2.98,
+    "Deep":0.88,
+    "REM":0.77,
+    "total_staged":4.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-24",
+    "Core":2.41,
+    "Deep":0.96,
+    "REM":0.96,
+    "total_staged":4.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-25",
+    "Core":4.12,
+    "Deep":1.04,
+    "REM":2.03,
+    "total_staged":7.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-26",
+    "Core":3.38,
+    "Deep":1.26,
+    "REM":1.52,
+    "total_staged":6.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-27",
+    "Core":4.09,
+    "Deep":1.05,
+    "REM":2.2,
+    "total_staged":7.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-28",
+    "Core":3.47,
+    "Deep":1.17,
+    "REM":1.5,
+    "total_staged":6.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-29",
+    "Core":4.0,
+    "Deep":0.87,
+    "REM":1.45,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-30",
+    "Core":4.03,
+    "Deep":0.92,
+    "REM":1.26,
+    "total_staged":6.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-08-31",
+    "Core":3.69,
+    "Deep":0.73,
+    "REM":1.29,
+    "total_staged":5.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-01",
+    "Core":4.15,
+    "Deep":0.67,
+    "REM":1.48,
+    "total_staged":6.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-02",
+    "Core":3.58,
+    "Deep":0.78,
+    "REM":1.58,
+    "total_staged":5.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-03",
+    "Core":5.22,
+    "Deep":0.33,
+    "REM":1.63,
+    "total_staged":7.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-04",
+    "Core":3.5,
+    "Deep":0.59,
+    "REM":2.04,
+    "total_staged":6.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-05",
+    "Core":4.1,
+    "Deep":0.98,
+    "REM":1.43,
+    "total_staged":6.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-06",
+    "Core":3.61,
+    "Deep":0.9,
+    "REM":1.68,
+    "total_staged":6.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-07",
+    "Core":3.82,
+    "Deep":0.99,
+    "REM":1.24,
+    "total_staged":6.06,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-08",
+    "Core":3.22,
+    "Deep":1.19,
+    "REM":1.13,
+    "total_staged":5.55,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-09",
+    "Core":3.78,
+    "Deep":0.8,
+    "REM":1.13,
+    "total_staged":5.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-10",
+    "Core":3.63,
+    "Deep":0.91,
+    "REM":1.52,
+    "total_staged":6.06,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-11",
+    "Core":4.47,
+    "Deep":0.82,
+    "REM":1.57,
+    "total_staged":6.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-12",
+    "Core":3.94,
+    "Deep":0.55,
+    "REM":1.17,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-13",
+    "Core":4.39,
+    "Deep":0.89,
+    "REM":1.32,
+    "total_staged":6.61,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-14",
+    "Core":4.25,
+    "Deep":0.5,
+    "REM":0.9,
+    "total_staged":5.65,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-15",
+    "Core":2.38,
+    "Deep":1.11,
+    "REM":1.0,
+    "total_staged":4.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-17",
+    "Core":3.52,
+    "Deep":0.93,
+    "REM":1.23,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-18",
+    "Core":5.58,
+    "Deep":0.84,
+    "REM":1.42,
+    "total_staged":7.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-19",
+    "Core":6.19,
+    "Deep":0.56,
+    "REM":1.65,
+    "total_staged":8.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-20",
+    "Core":4.56,
+    "Deep":0.92,
+    "REM":1.54,
+    "total_staged":7.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-21",
+    "Core":3.98,
+    "Deep":0.71,
+    "REM":1.78,
+    "total_staged":6.47,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-22",
+    "Core":1.94,
+    "Deep":1.33,
+    "REM":0.81,
+    "total_staged":4.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-23",
+    "Core":3.94,
+    "Deep":0.7,
+    "REM":1.28,
+    "total_staged":5.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-24",
+    "Core":4.16,
+    "Deep":0.89,
+    "REM":1.84,
+    "total_staged":6.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-25",
+    "Core":4.68,
+    "Deep":0.84,
+    "REM":1.76,
+    "total_staged":7.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-26",
+    "Core":4.12,
+    "Deep":1.12,
+    "REM":1.38,
+    "total_staged":6.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-27",
+    "Core":3.06,
+    "Deep":1.25,
+    "REM":1.54,
+    "total_staged":5.85,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-28",
+    "Core":2.81,
+    "Deep":1.08,
+    "REM":1.41,
+    "total_staged":5.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-29",
+    "Core":3.61,
+    "Deep":1.05,
+    "REM":1.68,
+    "total_staged":6.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-09-30",
+    "Core":2.72,
+    "Deep":0.88,
+    "REM":0.96,
+    "total_staged":4.56,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-01",
+    "Core":4.13,
+    "Deep":0.85,
+    "REM":1.05,
+    "total_staged":6.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-02",
+    "Core":4.63,
+    "Deep":0.9,
+    "REM":1.42,
+    "total_staged":6.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-03",
+    "Core":2.24,
+    "Deep":1.22,
+    "REM":0.48,
+    "total_staged":3.94,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-04",
+    "Core":3.6,
+    "Deep":1.11,
+    "REM":1.0,
+    "total_staged":5.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-05",
+    "Core":2.06,
+    "Deep":0.92,
+    "REM":1.03,
+    "total_staged":4.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-06",
+    "Core":3.75,
+    "Deep":1.0,
+    "REM":1.16,
+    "total_staged":5.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-07",
+    "Core":3.25,
+    "Deep":1.08,
+    "REM":1.77,
+    "total_staged":6.09,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-08",
+    "Core":4.59,
+    "Deep":0.74,
+    "REM":1.69,
+    "total_staged":7.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-09",
+    "Core":3.1,
+    "Deep":1.31,
+    "REM":1.25,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-10",
+    "Core":2.62,
+    "Deep":0.66,
+    "REM":1.04,
+    "total_staged":4.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-11",
+    "Core":5.13,
+    "Deep":0.65,
+    "REM":1.95,
+    "total_staged":7.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-12",
+    "Core":3.48,
+    "Deep":1.17,
+    "REM":0.65,
+    "total_staged":5.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-13",
+    "Core":3.78,
+    "Deep":1.25,
+    "REM":1.76,
+    "total_staged":6.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-14",
+    "Core":3.28,
+    "Deep":0.89,
+    "REM":1.52,
+    "total_staged":5.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-15",
+    "Core":3.94,
+    "Deep":0.95,
+    "REM":1.84,
+    "total_staged":6.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-16",
+    "Core":4.2,
+    "Deep":0.59,
+    "REM":1.81,
+    "total_staged":6.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-17",
+    "Core":3.3,
+    "Deep":1.06,
+    "REM":1.42,
+    "total_staged":5.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-18",
+    "Core":3.76,
+    "Deep":1.41,
+    "REM":1.15,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-19",
+    "Core":3.73,
+    "Deep":0.49,
+    "REM":1.11,
+    "total_staged":5.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-20",
+    "Core":3.0,
+    "Deep":0.87,
+    "REM":0.82,
+    "total_staged":4.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-21",
+    "Core":3.11,
+    "Deep":0.72,
+    "REM":1.19,
+    "total_staged":5.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-22",
+    "Core":3.96,
+    "Deep":1.41,
+    "REM":1.01,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-23",
+    "Core":3.26,
+    "Deep":1.02,
+    "REM":1.84,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-24",
+    "Core":1.9,
+    "Deep":0.75,
+    "REM":0.36,
+    "total_staged":3.01,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-25",
+    "Core":4.27,
+    "Deep":0.62,
+    "REM":0.92,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-27",
+    "Core":3.91,
+    "Deep":1.1,
+    "REM":1.4,
+    "total_staged":6.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-28",
+    "Core":4.01,
+    "Deep":1.65,
+    "REM":1.37,
+    "total_staged":7.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-29",
+    "Core":4.29,
+    "Deep":0.99,
+    "REM":1.75,
+    "total_staged":7.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-30",
+    "Core":4.11,
+    "Deep":0.63,
+    "REM":0.92,
+    "total_staged":5.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-10-31",
+    "Core":3.52,
+    "Deep":1.06,
+    "REM":0.92,
+    "total_staged":5.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-01",
+    "Core":2.95,
+    "Deep":1.32,
+    "REM":1.63,
+    "total_staged":5.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-02",
+    "Core":3.38,
+    "Deep":0.57,
+    "REM":0.66,
+    "total_staged":4.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-03",
+    "Core":3.43,
+    "Deep":0.71,
+    "REM":2.04,
+    "total_staged":6.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-04",
+    "Core":2.88,
+    "Deep":0.48,
+    "REM":0.97,
+    "total_staged":4.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-05",
+    "Core":3.44,
+    "Deep":1.28,
+    "REM":1.52,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-06",
+    "Core":2.16,
+    "Deep":0.94,
+    "REM":1.36,
+    "total_staged":4.46,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-07",
+    "Core":3.54,
+    "Deep":0.72,
+    "REM":0.88,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-08",
+    "Core":3.16,
+    "Deep":1.52,
+    "REM":1.18,
+    "total_staged":5.86,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-09",
+    "Core":4.2,
+    "Deep":0.77,
+    "REM":1.33,
+    "total_staged":6.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-10",
+    "Core":3.23,
+    "Deep":1.25,
+    "REM":1.03,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-11",
+    "Core":3.38,
+    "Deep":1.05,
+    "REM":1.38,
+    "total_staged":5.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-12",
+    "Core":4.11,
+    "Deep":0.86,
+    "REM":1.69,
+    "total_staged":6.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-13",
+    "Core":3.35,
+    "Deep":1.06,
+    "REM":0.94,
+    "total_staged":5.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-14",
+    "Core":3.64,
+    "Deep":1.23,
+    "REM":1.36,
+    "total_staged":6.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-15",
+    "Core":3.98,
+    "Deep":0.98,
+    "REM":1.17,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-16",
+    "Core":3.62,
+    "Deep":0.96,
+    "REM":1.15,
+    "total_staged":5.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-17",
+    "Core":2.91,
+    "Deep":0.57,
+    "REM":0.89,
+    "total_staged":4.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-18",
+    "Core":3.86,
+    "Deep":1.25,
+    "REM":1.02,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-19",
+    "Core":4.33,
+    "Deep":0.98,
+    "REM":1.47,
+    "total_staged":6.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-20",
+    "Core":3.5,
+    "Deep":0.44,
+    "REM":0.55,
+    "total_staged":4.49,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-21",
+    "Core":2.67,
+    "Deep":1.05,
+    "REM":1.4,
+    "total_staged":5.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-22",
+    "Core":3.54,
+    "Deep":0.92,
+    "REM":2.04,
+    "total_staged":6.5,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-23",
+    "Core":3.38,
+    "Deep":1.46,
+    "REM":1.53,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-24",
+    "Core":3.92,
+    "Deep":0.45,
+    "REM":1.5,
+    "total_staged":5.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-25",
+    "Core":3.76,
+    "Deep":1.45,
+    "REM":1.03,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-26",
+    "Core":2.83,
+    "Deep":1.31,
+    "REM":1.18,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-27",
+    "Core":2.82,
+    "Deep":0.79,
+    "REM":1.17,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-28",
+    "Core":2.36,
+    "Deep":1.13,
+    "REM":1.48,
+    "total_staged":4.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-29",
+    "Core":3.28,
+    "Deep":1.03,
+    "REM":1.39,
+    "total_staged":5.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-11-30",
+    "Core":3.26,
+    "Deep":1.32,
+    "REM":1.34,
+    "total_staged":5.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-01",
+    "Core":3.85,
+    "Deep":0.96,
+    "REM":0.72,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-02",
+    "Core":3.08,
+    "Deep":0.98,
+    "REM":0.75,
+    "total_staged":4.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-03",
+    "Core":3.68,
+    "Deep":0.71,
+    "REM":1.35,
+    "total_staged":5.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-04",
+    "Core":3.02,
+    "Deep":0.81,
+    "REM":1.31,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-05",
+    "Core":3.86,
+    "Deep":0.78,
+    "REM":1.3,
+    "total_staged":5.94,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-06",
+    "Core":2.98,
+    "Deep":1.33,
+    "REM":0.98,
+    "total_staged":5.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-07",
+    "Core":2.59,
+    "Deep":0.93,
+    "REM":1.21,
+    "total_staged":4.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-08",
+    "Core":3.55,
+    "Deep":0.99,
+    "REM":0.88,
+    "total_staged":5.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-09",
+    "Core":3.68,
+    "Deep":0.65,
+    "REM":0.25,
+    "total_staged":4.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-10",
+    "Core":4.58,
+    "Deep":0.52,
+    "REM":1.25,
+    "total_staged":6.36,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-11",
+    "Core":4.29,
+    "Deep":0.35,
+    "REM":0.88,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-12",
+    "Core":2.38,
+    "Deep":0.7,
+    "REM":0.82,
+    "total_staged":3.9,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-13",
+    "Core":3.17,
+    "Deep":1.0,
+    "REM":0.86,
+    "total_staged":5.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-14",
+    "Core":3.9,
+    "Deep":0.57,
+    "REM":1.02,
+    "total_staged":5.5,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-15",
+    "Core":2.7,
+    "Deep":1.2,
+    "REM":1.72,
+    "total_staged":5.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-17",
+    "Core":2.73,
+    "Deep":1.08,
+    "REM":1.34,
+    "total_staged":5.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-18",
+    "Core":3.1,
+    "Deep":1.16,
+    "REM":1.14,
+    "total_staged":5.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-19",
+    "Core":2.72,
+    "Deep":0.85,
+    "REM":1.51,
+    "total_staged":5.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-20",
+    "Core":2.82,
+    "Deep":0.84,
+    "REM":1.28,
+    "total_staged":4.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-21",
+    "Core":3.54,
+    "Deep":0.75,
+    "REM":0.99,
+    "total_staged":5.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-22",
+    "Core":3.89,
+    "Deep":0.95,
+    "REM":1.27,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-23",
+    "Core":3.13,
+    "Deep":1.05,
+    "REM":1.3,
+    "total_staged":5.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-24",
+    "Core":3.14,
+    "Deep":0.69,
+    "REM":1.0,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-25",
+    "Core":2.8,
+    "Deep":0.9,
+    "REM":1.08,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-26",
+    "Core":3.29,
+    "Deep":0.6,
+    "REM":1.18,
+    "total_staged":5.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-27",
+    "Core":2.61,
+    "Deep":1.45,
+    "REM":1.11,
+    "total_staged":5.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-28",
+    "Core":2.16,
+    "Deep":1.12,
+    "REM":0.27,
+    "total_staged":3.55,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-29",
+    "Core":3.52,
+    "Deep":0.98,
+    "REM":0.7,
+    "total_staged":5.21,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-30",
+    "Core":2.93,
+    "Deep":0.99,
+    "REM":0.91,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2023-12-31",
+    "Core":1.97,
+    "Deep":1.24,
+    "REM":0.74,
+    "total_staged":3.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-01",
+    "Core":3.0,
+    "Deep":1.15,
+    "REM":1.05,
+    "total_staged":5.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-02",
+    "Core":3.42,
+    "Deep":1.13,
+    "REM":1.47,
+    "total_staged":6.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-03",
+    "Core":3.64,
+    "Deep":0.64,
+    "REM":0.74,
+    "total_staged":5.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-04",
+    "Core":5.64,
+    "Deep":0.52,
+    "REM":2.02,
+    "total_staged":8.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-05",
+    "Core":2.24,
+    "Deep":0.55,
+    "REM":1.27,
+    "total_staged":4.06,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-06",
+    "Core":4.78,
+    "Deep":0.55,
+    "REM":1.96,
+    "total_staged":7.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-07",
+    "Core":3.82,
+    "Deep":0.6,
+    "REM":1.0,
+    "total_staged":5.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-08",
+    "Core":3.96,
+    "Deep":0.7,
+    "REM":1.55,
+    "total_staged":6.21,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-09",
+    "Core":3.5,
+    "Deep":0.56,
+    "REM":1.5,
+    "total_staged":5.56,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-11",
+    "Core":2.78,
+    "Deep":1.04,
+    "REM":0.99,
+    "total_staged":4.81,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-12",
+    "Core":3.86,
+    "Deep":1.26,
+    "REM":1.59,
+    "total_staged":6.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-13",
+    "Core":3.62,
+    "Deep":1.23,
+    "REM":1.88,
+    "total_staged":6.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-14",
+    "Core":4.05,
+    "Deep":0.86,
+    "REM":1.46,
+    "total_staged":6.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-15",
+    "Core":3.21,
+    "Deep":0.78,
+    "REM":0.94,
+    "total_staged":4.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-16",
+    "Core":2.9,
+    "Deep":0.63,
+    "REM":1.23,
+    "total_staged":4.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-17",
+    "Core":3.21,
+    "Deep":1.22,
+    "REM":1.7,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-18",
+    "Core":2.3,
+    "Deep":0.84,
+    "REM":1.02,
+    "total_staged":4.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-19",
+    "Core":2.58,
+    "Deep":0.88,
+    "REM":1.18,
+    "total_staged":4.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-20",
+    "Core":4.35,
+    "Deep":0.92,
+    "REM":1.18,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-21",
+    "Core":4.86,
+    "Deep":1.08,
+    "REM":0.83,
+    "total_staged":6.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-22",
+    "Core":2.84,
+    "Deep":0.92,
+    "REM":1.08,
+    "total_staged":4.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-23",
+    "Core":1.65,
+    "Deep":0.83,
+    "REM":1.59,
+    "total_staged":4.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-24",
+    "Core":3.2,
+    "Deep":0.64,
+    "REM":1.08,
+    "total_staged":4.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-25",
+    "Core":3.54,
+    "Deep":0.77,
+    "REM":1.37,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-26",
+    "Core":2.85,
+    "Deep":1.33,
+    "REM":1.27,
+    "total_staged":5.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-27",
+    "Core":3.84,
+    "Deep":1.24,
+    "REM":1.29,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-28",
+    "Core":4.03,
+    "Deep":0.8,
+    "REM":1.39,
+    "total_staged":6.22,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-29",
+    "Core":3.52,
+    "Deep":1.02,
+    "REM":1.24,
+    "total_staged":5.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-30",
+    "Core":3.92,
+    "Deep":0.96,
+    "REM":1.39,
+    "total_staged":6.27,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-01-31",
+    "Core":4.42,
+    "Deep":0.67,
+    "REM":1.82,
+    "total_staged":6.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-01",
+    "Core":4.66,
+    "Deep":1.1,
+    "REM":1.52,
+    "total_staged":7.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-02",
+    "Core":3.72,
+    "Deep":1.62,
+    "REM":1.37,
+    "total_staged":6.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-03",
+    "Core":3.54,
+    "Deep":1.14,
+    "REM":1.12,
+    "total_staged":5.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-04",
+    "Core":3.23,
+    "Deep":0.6,
+    "REM":0.64,
+    "total_staged":4.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-05",
+    "Core":3.25,
+    "Deep":1.13,
+    "REM":1.6,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-06",
+    "Core":2.92,
+    "Deep":0.82,
+    "REM":2.1,
+    "total_staged":5.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-10",
+    "Core":2.22,
+    "Deep":1.2,
+    "REM":1.41,
+    "total_staged":4.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-11",
+    "Core":3.65,
+    "Deep":0.62,
+    "REM":1.43,
+    "total_staged":5.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-12",
+    "Core":3.03,
+    "Deep":1.28,
+    "REM":1.36,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-13",
+    "Core":3.01,
+    "Deep":1.07,
+    "REM":0.89,
+    "total_staged":4.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-14",
+    "Core":2.64,
+    "Deep":1.18,
+    "REM":1.25,
+    "total_staged":5.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-15",
+    "Core":4.15,
+    "Deep":0.8,
+    "REM":0.92,
+    "total_staged":5.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-16",
+    "Core":3.65,
+    "Deep":1.07,
+    "REM":2.62,
+    "total_staged":7.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-17",
+    "Core":5.03,
+    "Deep":0.82,
+    "REM":1.23,
+    "total_staged":7.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-18",
+    "Core":3.42,
+    "Deep":1.15,
+    "REM":0.96,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-19",
+    "Core":3.29,
+    "Deep":1.04,
+    "REM":1.49,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-20",
+    "Core":3.88,
+    "Deep":1.19,
+    "REM":1.4,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-21",
+    "Core":3.46,
+    "Deep":0.9,
+    "REM":1.77,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-22",
+    "Core":2.58,
+    "Deep":0.84,
+    "REM":1.08,
+    "total_staged":4.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-23",
+    "Core":2.46,
+    "Deep":0.85,
+    "REM":1.2,
+    "total_staged":4.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-24",
+    "Core":3.77,
+    "Deep":1.25,
+    "REM":1.4,
+    "total_staged":6.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-25",
+    "Core":3.92,
+    "Deep":0.96,
+    "REM":1.6,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-26",
+    "Core":3.53,
+    "Deep":1.26,
+    "REM":1.1,
+    "total_staged":5.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-27",
+    "Core":2.08,
+    "Deep":1.54,
+    "REM":1.08,
+    "total_staged":4.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-28",
+    "Core":2.41,
+    "Deep":1.12,
+    "REM":1.1,
+    "total_staged":4.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-02-29",
+    "Core":3.49,
+    "Deep":0.89,
+    "REM":1.55,
+    "total_staged":5.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-01",
+    "Core":4.11,
+    "Deep":0.88,
+    "REM":1.09,
+    "total_staged":6.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-02",
+    "Core":5.18,
+    "Deep":1.09,
+    "REM":1.72,
+    "total_staged":7.99,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-04",
+    "Core":3.49,
+    "Deep":0.52,
+    "REM":1.43,
+    "total_staged":5.44,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-05",
+    "Core":3.24,
+    "Deep":0.99,
+    "REM":0.94,
+    "total_staged":5.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-06",
+    "Core":3.31,
+    "Deep":1.04,
+    "REM":0.42,
+    "total_staged":4.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-07",
+    "Core":2.17,
+    "Deep":1.31,
+    "REM":1.24,
+    "total_staged":4.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-08",
+    "Core":3.62,
+    "Deep":1.4,
+    "REM":1.72,
+    "total_staged":6.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-09",
+    "Core":2.78,
+    "Deep":1.08,
+    "REM":1.32,
+    "total_staged":5.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-10",
+    "Core":3.41,
+    "Deep":1.32,
+    "REM":1.51,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-11",
+    "Core":2.45,
+    "Deep":1.23,
+    "REM":1.09,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-12",
+    "Core":3.46,
+    "Deep":1.39,
+    "REM":1.33,
+    "total_staged":6.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-13",
+    "Core":2.78,
+    "Deep":1.56,
+    "REM":1.19,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-14",
+    "Core":3.82,
+    "Deep":1.18,
+    "REM":1.43,
+    "total_staged":6.43,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-15",
+    "Core":3.61,
+    "Deep":1.37,
+    "REM":0.92,
+    "total_staged":5.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-16",
+    "Core":3.13,
+    "Deep":0.91,
+    "REM":0.75,
+    "total_staged":4.79,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-17",
+    "Core":3.44,
+    "Deep":1.08,
+    "REM":1.45,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-18",
+    "Core":4.18,
+    "Deep":0.72,
+    "REM":0.91,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-19",
+    "Core":3.76,
+    "Deep":1.01,
+    "REM":1.39,
+    "total_staged":6.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-20",
+    "Core":2.99,
+    "Deep":0.83,
+    "REM":1.13,
+    "total_staged":4.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-21",
+    "Core":2.02,
+    "Deep":0.94,
+    "REM":0.98,
+    "total_staged":3.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-22",
+    "Core":3.13,
+    "Deep":1.29,
+    "REM":1.32,
+    "total_staged":5.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-23",
+    "Core":3.72,
+    "Deep":1.09,
+    "REM":1.28,
+    "total_staged":6.09,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-24",
+    "Core":3.81,
+    "Deep":1.08,
+    "REM":1.07,
+    "total_staged":5.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-25",
+    "Core":2.34,
+    "Deep":0.98,
+    "REM":0.96,
+    "total_staged":4.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-26",
+    "Core":3.39,
+    "Deep":0.92,
+    "REM":1.46,
+    "total_staged":5.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-27",
+    "Core":3.22,
+    "Deep":0.78,
+    "REM":0.92,
+    "total_staged":4.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-28",
+    "Core":3.52,
+    "Deep":1.1,
+    "REM":1.02,
+    "total_staged":5.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-29",
+    "Core":4.64,
+    "Deep":1.02,
+    "REM":1.72,
+    "total_staged":7.39,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-30",
+    "Core":4.06,
+    "Deep":1.09,
+    "REM":1.15,
+    "total_staged":6.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-03-31",
+    "Core":5.19,
+    "Deep":0.78,
+    "REM":1.11,
+    "total_staged":7.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-01",
+    "Core":2.96,
+    "Deep":0.92,
+    "REM":1.15,
+    "total_staged":5.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-02",
+    "Core":3.9,
+    "Deep":0.83,
+    "REM":1.6,
+    "total_staged":6.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-03",
+    "Core":2.52,
+    "Deep":1.19,
+    "REM":0.86,
+    "total_staged":4.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-04",
+    "Core":3.42,
+    "Deep":0.8,
+    "REM":1.05,
+    "total_staged":5.27,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-05",
+    "Core":3.49,
+    "Deep":0.87,
+    "REM":1.69,
+    "total_staged":6.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-06",
+    "Core":4.6,
+    "Deep":0.72,
+    "REM":1.4,
+    "total_staged":6.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-07",
+    "Core":2.72,
+    "Deep":0.78,
+    "REM":1.62,
+    "total_staged":5.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-08",
+    "Core":3.34,
+    "Deep":0.77,
+    "REM":1.42,
+    "total_staged":5.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-09",
+    "Core":3.38,
+    "Deep":0.92,
+    "REM":1.44,
+    "total_staged":5.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-10",
+    "Core":2.8,
+    "Deep":0.54,
+    "REM":0.65,
+    "total_staged":3.99,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-11",
+    "Core":3.8,
+    "Deep":0.68,
+    "REM":1.27,
+    "total_staged":5.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-12",
+    "Core":2.22,
+    "Deep":0.77,
+    "REM":0.71,
+    "total_staged":3.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-13",
+    "Core":4.88,
+    "Deep":1.19,
+    "REM":1.68,
+    "total_staged":7.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-14",
+    "Core":3.45,
+    "Deep":1.21,
+    "REM":1.0,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-15",
+    "Core":3.81,
+    "Deep":0.98,
+    "REM":1.51,
+    "total_staged":6.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-16",
+    "Core":3.52,
+    "Deep":1.02,
+    "REM":1.44,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-17",
+    "Core":4.13,
+    "Deep":1.0,
+    "REM":1.52,
+    "total_staged":6.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-18",
+    "Core":4.47,
+    "Deep":0.08,
+    "REM":0.29,
+    "total_staged":4.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-19",
+    "Core":4.86,
+    "Deep":0.41,
+    "REM":1.22,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-20",
+    "Core":3.6,
+    "Deep":1.08,
+    "REM":1.16,
+    "total_staged":5.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-21",
+    "Core":2.52,
+    "Deep":1.22,
+    "REM":0.46,
+    "total_staged":4.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-22",
+    "Core":3.18,
+    "Deep":0.82,
+    "REM":1.23,
+    "total_staged":5.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-23",
+    "Core":4.63,
+    "Deep":0.95,
+    "REM":1.54,
+    "total_staged":7.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-24",
+    "Core":3.39,
+    "Deep":1.19,
+    "REM":1.23,
+    "total_staged":5.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-25",
+    "Core":3.99,
+    "Deep":1.41,
+    "REM":1.48,
+    "total_staged":6.88,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-26",
+    "Core":4.58,
+    "Deep":0.86,
+    "REM":1.92,
+    "total_staged":7.35,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-27",
+    "Core":4.12,
+    "Deep":0.99,
+    "REM":1.88,
+    "total_staged":7.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-28",
+    "Core":2.58,
+    "Deep":1.02,
+    "REM":0.89,
+    "total_staged":4.49,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-29",
+    "Core":3.12,
+    "Deep":0.98,
+    "REM":0.92,
+    "total_staged":5.01,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-04-30",
+    "Core":2.95,
+    "Deep":0.99,
+    "REM":1.66,
+    "total_staged":5.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-01",
+    "Core":4.37,
+    "Deep":0.78,
+    "REM":1.34,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-02",
+    "Core":2.18,
+    "Deep":1.29,
+    "REM":1.49,
+    "total_staged":4.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-03",
+    "Core":4.2,
+    "Deep":0.78,
+    "REM":1.84,
+    "total_staged":6.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-05",
+    "Core":4.05,
+    "Deep":0.63,
+    "REM":1.48,
+    "total_staged":6.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-06",
+    "Core":3.8,
+    "Deep":0.73,
+    "REM":1.52,
+    "total_staged":6.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-07",
+    "Core":2.59,
+    "Deep":1.07,
+    "REM":0.68,
+    "total_staged":4.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-08",
+    "Core":2.0,
+    "Deep":1.06,
+    "REM":0.91,
+    "total_staged":3.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-09",
+    "Core":2.31,
+    "Deep":0.69,
+    "REM":0.73,
+    "total_staged":3.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-10",
+    "Core":4.55,
+    "Deep":0.92,
+    "REM":1.82,
+    "total_staged":7.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-11",
+    "Core":2.98,
+    "Deep":0.89,
+    "REM":0.69,
+    "total_staged":4.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-12",
+    "Core":5.31,
+    "Deep":0.87,
+    "REM":2.58,
+    "total_staged":8.76,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-13",
+    "Core":4.03,
+    "Deep":0.59,
+    "REM":1.44,
+    "total_staged":6.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-14",
+    "Core":3.51,
+    "Deep":1.22,
+    "REM":1.25,
+    "total_staged":5.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-15",
+    "Core":2.53,
+    "Deep":1.13,
+    "REM":0.94,
+    "total_staged":4.61,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-16",
+    "Core":2.52,
+    "Deep":0.75,
+    "REM":0.88,
+    "total_staged":4.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-17",
+    "Core":3.39,
+    "Deep":1.19,
+    "REM":1.58,
+    "total_staged":6.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-18",
+    "Core":3.21,
+    "Deep":0.91,
+    "REM":0.84,
+    "total_staged":4.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-19",
+    "Core":3.98,
+    "Deep":1.03,
+    "REM":1.71,
+    "total_staged":6.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-20",
+    "Core":2.08,
+    "Deep":1.38,
+    "REM":1.21,
+    "total_staged":4.67,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-21",
+    "Core":3.22,
+    "Deep":0.88,
+    "REM":0.92,
+    "total_staged":5.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-22",
+    "Core":3.07,
+    "Deep":1.19,
+    "REM":1.37,
+    "total_staged":5.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-23",
+    "Core":2.83,
+    "Deep":0.92,
+    "REM":0.58,
+    "total_staged":4.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-24",
+    "Core":2.7,
+    "Deep":1.37,
+    "REM":1.24,
+    "total_staged":5.31,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-25",
+    "Core":4.22,
+    "Deep":0.75,
+    "REM":1.72,
+    "total_staged":6.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-26",
+    "Core":2.82,
+    "Deep":0.98,
+    "REM":1.04,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-27",
+    "Core":3.97,
+    "Deep":0.83,
+    "REM":1.35,
+    "total_staged":6.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-28",
+    "Core":4.04,
+    "Deep":0.7,
+    "REM":1.32,
+    "total_staged":6.06,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-30",
+    "Core":5.54,
+    "Deep":0.89,
+    "REM":1.17,
+    "total_staged":7.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-05-31",
+    "Core":2.27,
+    "Deep":1.16,
+    "REM":1.29,
+    "total_staged":4.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-01",
+    "Core":4.28,
+    "Deep":0.83,
+    "REM":1.42,
+    "total_staged":6.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-02",
+    "Core":3.15,
+    "Deep":1.03,
+    "REM":1.18,
+    "total_staged":5.36,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-03",
+    "Core":4.03,
+    "Deep":0.52,
+    "REM":0.71,
+    "total_staged":5.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-04",
+    "Core":3.73,
+    "Deep":0.69,
+    "REM":1.14,
+    "total_staged":5.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-05",
+    "Core":3.75,
+    "Deep":1.18,
+    "REM":0.98,
+    "total_staged":5.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-06",
+    "Core":2.58,
+    "Deep":0.94,
+    "REM":1.38,
+    "total_staged":4.9,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-07",
+    "Core":2.65,
+    "Deep":1.12,
+    "REM":1.27,
+    "total_staged":5.04,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-08",
+    "Core":4.76,
+    "Deep":1.02,
+    "REM":1.13,
+    "total_staged":6.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-09",
+    "Core":3.96,
+    "Deep":1.02,
+    "REM":1.64,
+    "total_staged":6.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-10",
+    "Core":4.07,
+    "Deep":0.92,
+    "REM":1.46,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-11",
+    "Core":4.35,
+    "Deep":0.82,
+    "REM":1.16,
+    "total_staged":6.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-12",
+    "Core":3.56,
+    "Deep":1.12,
+    "REM":1.16,
+    "total_staged":5.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-13",
+    "Core":4.02,
+    "Deep":0.84,
+    "REM":0.74,
+    "total_staged":5.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-14",
+    "Core":4.61,
+    "Deep":0.66,
+    "REM":0.92,
+    "total_staged":6.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-15",
+    "Core":2.85,
+    "Deep":0.68,
+    "REM":1.07,
+    "total_staged":4.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-16",
+    "Core":2.85,
+    "Deep":0.25,
+    "REM":0.92,
+    "total_staged":4.02,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-17",
+    "Core":3.17,
+    "Deep":1.15,
+    "REM":1.42,
+    "total_staged":5.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-18",
+    "Core":2.32,
+    "Deep":0.82,
+    "REM":1.06,
+    "total_staged":4.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-19",
+    "Core":3.61,
+    "Deep":1.08,
+    "REM":2.43,
+    "total_staged":7.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-20",
+    "Core":3.25,
+    "Deep":0.78,
+    "REM":0.97,
+    "total_staged":4.99,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-21",
+    "Core":4.23,
+    "Deep":0.88,
+    "REM":1.7,
+    "total_staged":6.81,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-22",
+    "Core":2.73,
+    "Deep":0.92,
+    "REM":1.13,
+    "total_staged":4.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-23",
+    "Core":4.28,
+    "Deep":0.48,
+    "REM":1.65,
+    "total_staged":6.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-24",
+    "Core":3.02,
+    "Deep":1.62,
+    "REM":0.54,
+    "total_staged":5.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-25",
+    "Core":3.78,
+    "Deep":0.96,
+    "REM":1.53,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-26",
+    "Core":2.31,
+    "Deep":1.69,
+    "REM":0.99,
+    "total_staged":4.99,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-27",
+    "Core":3.98,
+    "Deep":1.12,
+    "REM":1.34,
+    "total_staged":6.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-28",
+    "Core":3.66,
+    "Deep":0.62,
+    "REM":0.68,
+    "total_staged":4.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-29",
+    "Core":2.88,
+    "Deep":0.98,
+    "REM":1.05,
+    "total_staged":4.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-06-30",
+    "Core":3.44,
+    "Deep":0.98,
+    "REM":1.17,
+    "total_staged":5.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-01",
+    "Core":4.4,
+    "Deep":0.98,
+    "REM":1.57,
+    "total_staged":6.94,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-02",
+    "Core":3.41,
+    "Deep":1.13,
+    "REM":0.99,
+    "total_staged":5.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-03",
+    "Core":2.52,
+    "Deep":0.94,
+    "REM":1.12,
+    "total_staged":4.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-04",
+    "Core":3.37,
+    "Deep":0.98,
+    "REM":1.71,
+    "total_staged":6.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-05",
+    "Core":2.61,
+    "Deep":1.33,
+    "REM":0.64,
+    "total_staged":4.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-06",
+    "Core":4.14,
+    "Deep":0.98,
+    "REM":1.35,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-07",
+    "Core":2.85,
+    "Deep":0.76,
+    "REM":1.23,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-08",
+    "Core":3.91,
+    "Deep":0.57,
+    "REM":1.45,
+    "total_staged":5.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-09",
+    "Core":2.7,
+    "Deep":1.23,
+    "REM":0.97,
+    "total_staged":4.9,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-10",
+    "Core":3.02,
+    "Deep":0.99,
+    "REM":1.67,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-11",
+    "Core":4.23,
+    "Deep":0.57,
+    "REM":1.7,
+    "total_staged":6.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-12",
+    "Core":4.22,
+    "Deep":0.91,
+    "REM":1.72,
+    "total_staged":6.85,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-13",
+    "Core":4.1,
+    "Deep":1.08,
+    "REM":1.64,
+    "total_staged":6.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-14",
+    "Core":4.14,
+    "Deep":1.06,
+    "REM":1.4,
+    "total_staged":6.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-15",
+    "Core":2.34,
+    "Deep":0.94,
+    "REM":1.14,
+    "total_staged":4.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-16",
+    "Core":5.22,
+    "Deep":0.63,
+    "REM":1.84,
+    "total_staged":7.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-17",
+    "Core":3.28,
+    "Deep":0.62,
+    "REM":1.1,
+    "total_staged":5.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-18",
+    "Core":3.15,
+    "Deep":1.27,
+    "REM":1.04,
+    "total_staged":5.47,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-19",
+    "Core":3.49,
+    "Deep":0.7,
+    "REM":1.21,
+    "total_staged":5.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-20",
+    "Core":4.89,
+    "Deep":0.98,
+    "REM":1.83,
+    "total_staged":7.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-21",
+    "Core":4.5,
+    "Deep":1.38,
+    "REM":2.4,
+    "total_staged":8.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-23",
+    "Core":4.98,
+    "Deep":0.7,
+    "REM":1.37,
+    "total_staged":7.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-24",
+    "Core":4.12,
+    "Deep":0.97,
+    "REM":1.42,
+    "total_staged":6.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-25",
+    "Core":4.93,
+    "Deep":0.63,
+    "REM":1.64,
+    "total_staged":7.21,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-26",
+    "Core":3.78,
+    "Deep":0.68,
+    "REM":1.64,
+    "total_staged":6.1,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-27",
+    "Core":6.05,
+    "Deep":0.7,
+    "REM":2.05,
+    "total_staged":8.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-28",
+    "Core":5.28,
+    "Deep":0.73,
+    "REM":0.95,
+    "total_staged":6.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-29",
+    "Core":3.84,
+    "Deep":0.73,
+    "REM":1.11,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-30",
+    "Core":4.18,
+    "Deep":0.97,
+    "REM":1.25,
+    "total_staged":6.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-07-31",
+    "Core":3.91,
+    "Deep":0.8,
+    "REM":1.83,
+    "total_staged":6.54,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-01",
+    "Core":2.96,
+    "Deep":1.06,
+    "REM":1.18,
+    "total_staged":5.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-02",
+    "Core":3.28,
+    "Deep":0.9,
+    "REM":1.5,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-03",
+    "Core":4.54,
+    "Deep":0.57,
+    "REM":2.12,
+    "total_staged":7.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-04",
+    "Core":3.68,
+    "Deep":1.07,
+    "REM":1.32,
+    "total_staged":6.07,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-05",
+    "Core":3.26,
+    "Deep":1.19,
+    "REM":1.14,
+    "total_staged":5.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-06",
+    "Core":2.74,
+    "Deep":1.23,
+    "REM":0.98,
+    "total_staged":4.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-07",
+    "Core":3.58,
+    "Deep":0.85,
+    "REM":1.5,
+    "total_staged":5.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-08",
+    "Core":2.97,
+    "Deep":0.98,
+    "REM":0.88,
+    "total_staged":4.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-09",
+    "Core":2.57,
+    "Deep":1.23,
+    "REM":1.03,
+    "total_staged":4.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-10",
+    "Core":4.32,
+    "Deep":0.81,
+    "REM":1.57,
+    "total_staged":6.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-11",
+    "Core":4.53,
+    "Deep":1.08,
+    "REM":1.23,
+    "total_staged":6.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-12",
+    "Core":4.32,
+    "Deep":0.38,
+    "REM":1.58,
+    "total_staged":6.27,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-13",
+    "Core":3.26,
+    "Deep":1.06,
+    "REM":1.3,
+    "total_staged":5.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-14",
+    "Core":3.65,
+    "Deep":0.98,
+    "REM":1.07,
+    "total_staged":5.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-15",
+    "Core":3.08,
+    "Deep":0.88,
+    "REM":1.18,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-16",
+    "Core":3.57,
+    "Deep":1.17,
+    "REM":1.11,
+    "total_staged":5.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-17",
+    "Core":3.6,
+    "Deep":0.46,
+    "REM":0.87,
+    "total_staged":4.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-18",
+    "Core":3.33,
+    "Deep":1.18,
+    "REM":0.86,
+    "total_staged":5.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-19",
+    "Core":3.8,
+    "Deep":1.16,
+    "REM":1.46,
+    "total_staged":6.42,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-20",
+    "Core":3.16,
+    "Deep":1.23,
+    "REM":1.38,
+    "total_staged":5.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-21",
+    "Core":3.03,
+    "Deep":1.27,
+    "REM":1.22,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-22",
+    "Core":3.74,
+    "Deep":1.02,
+    "REM":1.73,
+    "total_staged":6.5,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-23",
+    "Core":3.75,
+    "Deep":0.9,
+    "REM":1.66,
+    "total_staged":6.31,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-24",
+    "Core":4.24,
+    "Deep":1.72,
+    "REM":1.61,
+    "total_staged":7.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-25",
+    "Core":4.86,
+    "Deep":0.38,
+    "REM":1.68,
+    "total_staged":6.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-26",
+    "Core":2.88,
+    "Deep":0.96,
+    "REM":1.44,
+    "total_staged":5.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-27",
+    "Core":3.7,
+    "Deep":0.86,
+    "REM":1.68,
+    "total_staged":6.24,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-28",
+    "Core":3.43,
+    "Deep":0.82,
+    "REM":1.49,
+    "total_staged":5.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-29",
+    "Core":3.56,
+    "Deep":1.31,
+    "REM":1.52,
+    "total_staged":6.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-30",
+    "Core":3.93,
+    "Deep":1.02,
+    "REM":1.63,
+    "total_staged":6.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-08-31",
+    "Core":4.54,
+    "Deep":0.75,
+    "REM":1.3,
+    "total_staged":6.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-02",
+    "Core":4.29,
+    "Deep":0.82,
+    "REM":0.94,
+    "total_staged":6.06,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-03",
+    "Core":2.87,
+    "Deep":1.32,
+    "REM":1.42,
+    "total_staged":5.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-04",
+    "Core":3.08,
+    "Deep":0.88,
+    "REM":1.56,
+    "total_staged":5.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-05",
+    "Core":3.96,
+    "Deep":0.78,
+    "REM":1.22,
+    "total_staged":5.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-06",
+    "Core":3.01,
+    "Deep":1.08,
+    "REM":1.3,
+    "total_staged":5.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-07",
+    "Core":3.61,
+    "Deep":1.1,
+    "REM":1.14,
+    "total_staged":5.85,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-08",
+    "Core":2.3,
+    "Deep":1.34,
+    "REM":0.98,
+    "total_staged":4.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-10",
+    "Core":4.21,
+    "Deep":0.96,
+    "REM":1.58,
+    "total_staged":6.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-11",
+    "Core":3.95,
+    "Deep":0.76,
+    "REM":1.32,
+    "total_staged":6.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-12",
+    "Core":2.72,
+    "Deep":1.12,
+    "REM":0.56,
+    "total_staged":4.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-13",
+    "Core":5.21,
+    "Deep":0.84,
+    "REM":1.77,
+    "total_staged":7.82,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-14",
+    "Core":2.88,
+    "Deep":1.31,
+    "REM":1.13,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-15",
+    "Core":4.68,
+    "Deep":0.45,
+    "REM":1.52,
+    "total_staged":6.65,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-16",
+    "Core":3.56,
+    "Deep":1.07,
+    "REM":1.24,
+    "total_staged":5.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-17",
+    "Core":3.17,
+    "Deep":1.25,
+    "REM":1.38,
+    "total_staged":5.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-18",
+    "Core":3.91,
+    "Deep":0.79,
+    "REM":1.74,
+    "total_staged":6.44,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-19",
+    "Core":3.3,
+    "Deep":0.9,
+    "REM":1.18,
+    "total_staged":5.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-20",
+    "Core":4.87,
+    "Deep":0.83,
+    "REM":1.83,
+    "total_staged":7.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-21",
+    "Core":4.01,
+    "Deep":0.86,
+    "REM":1.3,
+    "total_staged":6.17,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-22",
+    "Core":4.52,
+    "Deep":0.82,
+    "REM":1.6,
+    "total_staged":6.94,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-23",
+    "Core":4.12,
+    "Deep":0.68,
+    "REM":1.36,
+    "total_staged":6.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-24",
+    "Core":3.43,
+    "Deep":1.18,
+    "REM":1.32,
+    "total_staged":5.94,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-25",
+    "Core":4.0,
+    "Deep":0.88,
+    "REM":1.22,
+    "total_staged":6.09,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-26",
+    "Core":2.15,
+    "Deep":0.98,
+    "REM":0.62,
+    "total_staged":3.76,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-28",
+    "Core":4.26,
+    "Deep":1.33,
+    "REM":1.27,
+    "total_staged":6.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-29",
+    "Core":4.76,
+    "Deep":0.92,
+    "REM":1.82,
+    "total_staged":7.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-09-30",
+    "Core":3.73,
+    "Deep":0.52,
+    "REM":1.27,
+    "total_staged":5.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-01",
+    "Core":4.18,
+    "Deep":0.94,
+    "REM":1.62,
+    "total_staged":6.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-02",
+    "Core":3.29,
+    "Deep":0.98,
+    "REM":0.68,
+    "total_staged":4.95,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-03",
+    "Core":4.29,
+    "Deep":1.01,
+    "REM":1.13,
+    "total_staged":6.43,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-04",
+    "Core":3.98,
+    "Deep":1.01,
+    "REM":1.19,
+    "total_staged":6.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-06",
+    "Core":3.05,
+    "Deep":1.29,
+    "REM":1.34,
+    "total_staged":5.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-07",
+    "Core":3.54,
+    "Deep":1.21,
+    "REM":1.58,
+    "total_staged":6.33,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-08",
+    "Core":3.18,
+    "Deep":1.07,
+    "REM":2.05,
+    "total_staged":6.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-09",
+    "Core":2.96,
+    "Deep":1.18,
+    "REM":1.29,
+    "total_staged":5.43,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-10",
+    "Core":3.21,
+    "Deep":0.88,
+    "REM":1.1,
+    "total_staged":5.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-11",
+    "Core":4.43,
+    "Deep":0.54,
+    "REM":1.5,
+    "total_staged":6.48,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-13",
+    "Core":3.41,
+    "Deep":1.19,
+    "REM":1.31,
+    "total_staged":5.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-14",
+    "Core":3.62,
+    "Deep":0.7,
+    "REM":1.37,
+    "total_staged":5.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-15",
+    "Core":3.53,
+    "Deep":1.19,
+    "REM":1.06,
+    "total_staged":5.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-17",
+    "Core":2.47,
+    "Deep":1.6,
+    "REM":0.91,
+    "total_staged":4.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-18",
+    "Core":4.2,
+    "Deep":1.3,
+    "REM":1.58,
+    "total_staged":7.08,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-19",
+    "Core":3.17,
+    "Deep":1.32,
+    "REM":1.17,
+    "total_staged":5.65,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-20",
+    "Core":3.51,
+    "Deep":1.47,
+    "REM":1.25,
+    "total_staged":6.22,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-21",
+    "Core":3.34,
+    "Deep":0.74,
+    "REM":1.77,
+    "total_staged":5.85,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-22",
+    "Core":3.04,
+    "Deep":0.72,
+    "REM":1.38,
+    "total_staged":5.14,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-23",
+    "Core":2.31,
+    "Deep":0.73,
+    "REM":1.28,
+    "total_staged":4.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-24",
+    "Core":2.45,
+    "Deep":1.08,
+    "REM":0.98,
+    "total_staged":4.51,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-25",
+    "Core":3.32,
+    "Deep":1.38,
+    "REM":1.63,
+    "total_staged":6.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-26",
+    "Core":4.72,
+    "Deep":0.92,
+    "REM":1.26,
+    "total_staged":6.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-27",
+    "Core":3.26,
+    "Deep":1.22,
+    "REM":1.18,
+    "total_staged":5.66,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-28",
+    "Core":3.03,
+    "Deep":1.11,
+    "REM":1.15,
+    "total_staged":5.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-29",
+    "Core":2.46,
+    "Deep":1.05,
+    "REM":1.07,
+    "total_staged":4.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-30",
+    "Core":3.17,
+    "Deep":0.82,
+    "REM":1.27,
+    "total_staged":5.25,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-10-31",
+    "Core":2.79,
+    "Deep":0.72,
+    "REM":1.12,
+    "total_staged":4.63,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-02",
+    "Core":3.52,
+    "Deep":1.42,
+    "REM":1.29,
+    "total_staged":6.23,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-03",
+    "Core":2.86,
+    "Deep":0.77,
+    "REM":1.3,
+    "total_staged":4.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-04",
+    "Core":4.24,
+    "Deep":0.76,
+    "REM":1.6,
+    "total_staged":6.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-05",
+    "Core":3.25,
+    "Deep":0.48,
+    "REM":0.83,
+    "total_staged":4.56,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-06",
+    "Core":3.28,
+    "Deep":1.34,
+    "REM":1.22,
+    "total_staged":5.84,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-07",
+    "Core":3.68,
+    "Deep":1.17,
+    "REM":1.04,
+    "total_staged":5.89,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-08",
+    "Core":4.89,
+    "Deep":0.78,
+    "REM":1.46,
+    "total_staged":7.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-09",
+    "Core":3.36,
+    "Deep":0.78,
+    "REM":1.59,
+    "total_staged":5.73,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-10",
+    "Core":3.29,
+    "Deep":0.33,
+    "REM":1.42,
+    "total_staged":5.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-11",
+    "Core":4.55,
+    "Deep":1.12,
+    "REM":1.71,
+    "total_staged":7.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-12",
+    "Core":3.87,
+    "Deep":0.8,
+    "REM":1.62,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-13",
+    "Core":3.2,
+    "Deep":0.82,
+    "REM":0.91,
+    "total_staged":4.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-14",
+    "Core":2.24,
+    "Deep":0.98,
+    "REM":0.89,
+    "total_staged":4.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-15",
+    "Core":3.82,
+    "Deep":1.23,
+    "REM":1.7,
+    "total_staged":6.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-16",
+    "Core":2.82,
+    "Deep":0.94,
+    "REM":0.78,
+    "total_staged":4.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-17",
+    "Core":3.62,
+    "Deep":0.98,
+    "REM":1.05,
+    "total_staged":5.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-18",
+    "Core":3.19,
+    "Deep":0.83,
+    "REM":1.27,
+    "total_staged":5.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-19",
+    "Core":3.53,
+    "Deep":1.31,
+    "REM":1.5,
+    "total_staged":6.34,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-20",
+    "Core":3.04,
+    "Deep":0.99,
+    "REM":1.08,
+    "total_staged":5.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-21",
+    "Core":3.48,
+    "Deep":1.11,
+    "REM":1.59,
+    "total_staged":6.18,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-22",
+    "Core":3.14,
+    "Deep":1.08,
+    "REM":1.69,
+    "total_staged":5.92,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-23",
+    "Core":4.98,
+    "Deep":0.82,
+    "REM":1.2,
+    "total_staged":7.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-24",
+    "Core":5.03,
+    "Deep":0.78,
+    "REM":1.94,
+    "total_staged":7.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-25",
+    "Core":4.48,
+    "Deep":0.6,
+    "REM":1.21,
+    "total_staged":6.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-26",
+    "Core":3.82,
+    "Deep":0.85,
+    "REM":1.54,
+    "total_staged":6.22,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-27",
+    "Core":3.04,
+    "Deep":1.3,
+    "REM":1.37,
+    "total_staged":5.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-28",
+    "Core":3.91,
+    "Deep":0.79,
+    "REM":1.67,
+    "total_staged":6.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-29",
+    "Core":2.51,
+    "Deep":0.98,
+    "REM":1.19,
+    "total_staged":4.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-11-30",
+    "Core":4.33,
+    "Deep":0.85,
+    "REM":1.93,
+    "total_staged":7.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-01",
+    "Core":4.58,
+    "Deep":0.76,
+    "REM":1.77,
+    "total_staged":7.1,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-02",
+    "Core":3.39,
+    "Deep":0.98,
+    "REM":1.23,
+    "total_staged":5.61,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-03",
+    "Core":3.96,
+    "Deep":1.2,
+    "REM":0.98,
+    "total_staged":6.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-04",
+    "Core":3.96,
+    "Deep":0.97,
+    "REM":1.03,
+    "total_staged":5.96,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-05",
+    "Core":2.82,
+    "Deep":1.2,
+    "REM":1.38,
+    "total_staged":5.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-06",
+    "Core":3.82,
+    "Deep":1.05,
+    "REM":1.96,
+    "total_staged":6.83,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-07",
+    "Core":3.42,
+    "Deep":1.12,
+    "REM":0.84,
+    "total_staged":5.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-08",
+    "Core":3.36,
+    "Deep":1.19,
+    "REM":2.04,
+    "total_staged":6.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-09",
+    "Core":3.91,
+    "Deep":0.79,
+    "REM":1.07,
+    "total_staged":5.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-10",
+    "Core":4.43,
+    "Deep":0.88,
+    "REM":1.65,
+    "total_staged":6.97,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-11",
+    "Core":3.82,
+    "Deep":0.74,
+    "REM":1.34,
+    "total_staged":5.9,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-12",
+    "Core":3.43,
+    "Deep":1.22,
+    "REM":0.62,
+    "total_staged":5.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-14",
+    "Core":4.2,
+    "Deep":0.73,
+    "REM":1.12,
+    "total_staged":6.05,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-15",
+    "Core":4.26,
+    "Deep":0.99,
+    "REM":1.62,
+    "total_staged":6.88,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-16",
+    "Core":3.79,
+    "Deep":1.36,
+    "REM":1.04,
+    "total_staged":6.19,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-17",
+    "Core":3.62,
+    "Deep":0.83,
+    "REM":1.91,
+    "total_staged":6.37,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-18",
+    "Core":3.6,
+    "Deep":0.47,
+    "REM":1.52,
+    "total_staged":5.59,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-19",
+    "Core":2.62,
+    "Deep":0.9,
+    "REM":0.88,
+    "total_staged":4.41,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-20",
+    "Core":3.34,
+    "Deep":0.33,
+    "REM":0.93,
+    "total_staged":4.61,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-21",
+    "Core":2.83,
+    "Deep":0.81,
+    "REM":1.01,
+    "total_staged":4.65,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-22",
+    "Core":2.78,
+    "Deep":1.19,
+    "REM":1.41,
+    "total_staged":5.38,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-23",
+    "Core":3.62,
+    "Deep":0.82,
+    "REM":1.24,
+    "total_staged":5.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-24",
+    "Core":3.72,
+    "Deep":0.96,
+    "REM":1.32,
+    "total_staged":6.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-25",
+    "Core":2.6,
+    "Deep":0.96,
+    "REM":0.89,
+    "total_staged":4.45,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-26",
+    "Core":4.3,
+    "Deep":1.21,
+    "REM":1.79,
+    "total_staged":7.3,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-27",
+    "Core":5.19,
+    "Deep":0.82,
+    "REM":1.74,
+    "total_staged":7.75,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-28",
+    "Core":3.74,
+    "Deep":0.47,
+    "REM":1.36,
+    "total_staged":5.57,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-29",
+    "Core":4.55,
+    "Deep":0.75,
+    "REM":2.22,
+    "total_staged":7.52,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2024-12-30",
+    "Core":2.91,
+    "Deep":1.48,
+    "REM":0.94,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-03",
+    "Core":4.58,
+    "Deep":0.82,
+    "REM":1.62,
+    "total_staged":7.03,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-04",
+    "Core":4.27,
+    "Deep":0.98,
+    "REM":1.49,
+    "total_staged":6.74,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-05",
+    "Core":3.11,
+    "Deep":1.23,
+    "REM":1.37,
+    "total_staged":5.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-06",
+    "Core":4.18,
+    "Deep":0.69,
+    "REM":1.4,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-07",
+    "Core":3.63,
+    "Deep":0.98,
+    "REM":1.53,
+    "total_staged":6.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-08",
+    "Core":3.98,
+    "Deep":1.12,
+    "REM":0.55,
+    "total_staged":5.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-09",
+    "Core":2.81,
+    "Deep":0.94,
+    "REM":0.96,
+    "total_staged":4.71,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-10",
+    "Core":3.88,
+    "Deep":0.94,
+    "REM":1.77,
+    "total_staged":6.58,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-11",
+    "Core":3.26,
+    "Deep":1.1,
+    "REM":1.08,
+    "total_staged":5.43,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-12",
+    "Core":2.6,
+    "Deep":0.99,
+    "REM":1.1,
+    "total_staged":4.69,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-13",
+    "Core":3.67,
+    "Deep":0.82,
+    "REM":0.72,
+    "total_staged":5.2,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-14",
+    "Core":4.82,
+    "Deep":1.11,
+    "REM":1.61,
+    "total_staged":7.53,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-15",
+    "Core":3.88,
+    "Deep":1.39,
+    "REM":1.7,
+    "total_staged":6.98,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-16",
+    "Core":4.68,
+    "Deep":0.78,
+    "REM":1.42,
+    "total_staged":6.87,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-17",
+    "Core":2.74,
+    "Deep":1.12,
+    "REM":1.13,
+    "total_staged":4.99,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-18",
+    "Core":4.58,
+    "Deep":0.62,
+    "REM":1.52,
+    "total_staged":6.72,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-19",
+    "Core":3.56,
+    "Deep":1.0,
+    "REM":1.57,
+    "total_staged":6.12,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-20",
+    "Core":3.57,
+    "Deep":1.27,
+    "REM":1.44,
+    "total_staged":6.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-21",
+    "Core":3.82,
+    "Deep":1.34,
+    "REM":1.38,
+    "total_staged":6.54,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-22",
+    "Core":3.6,
+    "Deep":1.27,
+    "REM":1.82,
+    "total_staged":6.68,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-23",
+    "Core":4.09,
+    "Deep":1.21,
+    "REM":1.63,
+    "total_staged":6.93,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-24",
+    "Core":3.82,
+    "Deep":0.62,
+    "REM":1.7,
+    "total_staged":6.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-25",
+    "Core":3.45,
+    "Deep":1.14,
+    "REM":0.56,
+    "total_staged":5.15,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-27",
+    "Core":4.03,
+    "Deep":0.92,
+    "REM":1.44,
+    "total_staged":6.4,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-28",
+    "Core":3.45,
+    "Deep":0.82,
+    "REM":0.77,
+    "total_staged":5.04,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-29",
+    "Core":3.37,
+    "Deep":0.8,
+    "REM":1.11,
+    "total_staged":5.28,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-30",
+    "Core":2.82,
+    "Deep":1.41,
+    "REM":1.09,
+    "total_staged":5.32,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-01-31",
+    "Core":5.18,
+    "Deep":1.23,
+    "REM":1.73,
+    "total_staged":8.13,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-01",
+    "Core":4.12,
+    "Deep":0.74,
+    "REM":1.13,
+    "total_staged":6.0,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-02",
+    "Core":3.07,
+    "Deep":1.08,
+    "REM":0.97,
+    "total_staged":5.11,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-03",
+    "Core":3.29,
+    "Deep":0.92,
+    "REM":1.42,
+    "total_staged":5.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-04",
+    "Core":3.28,
+    "Deep":1.12,
+    "REM":1.39,
+    "total_staged":5.8,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-05",
+    "Core":3.0,
+    "Deep":1.12,
+    "REM":1.48,
+    "total_staged":5.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-06",
+    "Core":3.91,
+    "Deep":1.06,
+    "REM":0.94,
+    "total_staged":5.91,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-07",
+    "Core":3.92,
+    "Deep":1.35,
+    "REM":1.35,
+    "total_staged":6.62,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-08",
+    "Core":3.18,
+    "Deep":1.52,
+    "REM":1.46,
+    "total_staged":6.16,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-09",
+    "Core":3.57,
+    "Deep":0.92,
+    "REM":1.12,
+    "total_staged":5.61,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-10",
+    "Core":3.01,
+    "Deep":1.36,
+    "REM":1.23,
+    "total_staged":5.6,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-11",
+    "Core":3.7,
+    "Deep":1.11,
+    "REM":1.83,
+    "total_staged":6.64,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-12",
+    "Core":3.28,
+    "Deep":1.23,
+    "REM":1.28,
+    "total_staged":5.78,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-13",
+    "Core":4.68,
+    "Deep":0.84,
+    "REM":1.25,
+    "total_staged":6.77,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-14",
+    "Core":2.82,
+    "Deep":0.69,
+    "REM":0.78,
+    "total_staged":4.29,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-15",
+    "Core":3.52,
+    "Deep":1.03,
+    "REM":1.09,
+    "total_staged":5.65,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-16",
+    "Core":4.84,
+    "Deep":0.88,
+    "REM":0.98,
+    "total_staged":6.7,
+    "phase":"Postpartum 1"
+  },
+  {
+    "night_date":"2025-02-17",
+    "Core":3.65,
+    "Deep":0.85,
+    "REM":1.28,
+    "total_staged":5.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-18",
+    "Core":3.32,
+    "Deep":1.16,
+    "REM":0.57,
+    "total_staged":5.04,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-19",
+    "Core":2.95,
+    "Deep":0.82,
+    "REM":0.68,
+    "total_staged":4.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-20",
+    "Core":3.5,
+    "Deep":1.05,
+    "REM":1.17,
+    "total_staged":5.72,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-21",
+    "Core":3.43,
+    "Deep":0.74,
+    "REM":1.18,
+    "total_staged":5.36,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-22",
+    "Core":2.98,
+    "Deep":0.81,
+    "REM":0.92,
+    "total_staged":4.71,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-23",
+    "Core":2.52,
+    "Deep":1.04,
+    "REM":0.82,
+    "total_staged":4.38,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-24",
+    "Core":4.29,
+    "Deep":0.63,
+    "REM":1.07,
+    "total_staged":5.99,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-25",
+    "Core":3.94,
+    "Deep":0.87,
+    "REM":0.79,
+    "total_staged":5.6,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-26",
+    "Core":4.12,
+    "Deep":0.72,
+    "REM":0.74,
+    "total_staged":5.57,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-27",
+    "Core":3.27,
+    "Deep":0.86,
+    "REM":1.02,
+    "total_staged":5.14,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-02-28",
+    "Core":3.09,
+    "Deep":1.06,
+    "REM":0.8,
+    "total_staged":4.95,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-01",
+    "Core":3.65,
+    "Deep":0.77,
+    "REM":0.97,
+    "total_staged":5.38,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-03",
+    "Core":4.12,
+    "Deep":0.76,
+    "REM":1.5,
+    "total_staged":6.38,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-04",
+    "Core":2.16,
+    "Deep":1.04,
+    "REM":0.92,
+    "total_staged":4.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-05",
+    "Core":3.5,
+    "Deep":0.85,
+    "REM":1.2,
+    "total_staged":5.55,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-06",
+    "Core":4.16,
+    "Deep":0.72,
+    "REM":0.93,
+    "total_staged":5.81,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-07",
+    "Core":4.03,
+    "Deep":0.59,
+    "REM":1.43,
+    "total_staged":6.06,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-08",
+    "Core":3.92,
+    "Deep":1.15,
+    "REM":1.38,
+    "total_staged":6.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-09",
+    "Core":4.32,
+    "Deep":0.92,
+    "REM":1.94,
+    "total_staged":7.18,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-10",
+    "Core":4.13,
+    "Deep":0.74,
+    "REM":1.35,
+    "total_staged":6.22,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-11",
+    "Core":3.49,
+    "Deep":1.09,
+    "REM":1.23,
+    "total_staged":5.81,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-12",
+    "Core":3.42,
+    "Deep":0.99,
+    "REM":0.86,
+    "total_staged":5.28,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-13",
+    "Core":3.71,
+    "Deep":1.08,
+    "REM":1.24,
+    "total_staged":6.02,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-14",
+    "Core":3.12,
+    "Deep":1.02,
+    "REM":0.56,
+    "total_staged":4.7,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-15",
+    "Core":4.79,
+    "Deep":0.68,
+    "REM":1.35,
+    "total_staged":6.82,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-16",
+    "Core":4.72,
+    "Deep":1.07,
+    "REM":1.27,
+    "total_staged":7.05,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-17",
+    "Core":3.69,
+    "Deep":0.82,
+    "REM":1.08,
+    "total_staged":5.6,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-18",
+    "Core":4.23,
+    "Deep":1.06,
+    "REM":1.5,
+    "total_staged":6.79,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-19",
+    "Core":3.7,
+    "Deep":0.78,
+    "REM":1.46,
+    "total_staged":5.93,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-20",
+    "Core":5.58,
+    "Deep":0.6,
+    "REM":1.9,
+    "total_staged":8.07,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-21",
+    "Core":4.97,
+    "Deep":0.58,
+    "REM":1.87,
+    "total_staged":7.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-22",
+    "Core":4.82,
+    "Deep":1.08,
+    "REM":1.84,
+    "total_staged":7.74,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-23",
+    "Core":4.14,
+    "Deep":0.68,
+    "REM":1.64,
+    "total_staged":6.46,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-24",
+    "Core":4.18,
+    "Deep":0.78,
+    "REM":1.3,
+    "total_staged":6.27,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-25",
+    "Core":4.22,
+    "Deep":0.94,
+    "REM":1.73,
+    "total_staged":6.9,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-26",
+    "Core":3.18,
+    "Deep":1.2,
+    "REM":1.28,
+    "total_staged":5.67,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-27",
+    "Core":4.79,
+    "Deep":1.12,
+    "REM":1.46,
+    "total_staged":7.37,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-28",
+    "Core":4.63,
+    "Deep":0.69,
+    "REM":1.34,
+    "total_staged":6.67,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-29",
+    "Core":3.42,
+    "Deep":1.1,
+    "REM":0.77,
+    "total_staged":5.29,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-30",
+    "Core":3.72,
+    "Deep":0.83,
+    "REM":1.38,
+    "total_staged":5.94,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-03-31",
+    "Core":4.79,
+    "Deep":0.89,
+    "REM":1.6,
+    "total_staged":7.28,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-01",
+    "Core":4.8,
+    "Deep":0.65,
+    "REM":1.3,
+    "total_staged":6.75,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-02",
+    "Core":4.49,
+    "Deep":0.68,
+    "REM":1.66,
+    "total_staged":6.83,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-03",
+    "Core":5.82,
+    "Deep":0.92,
+    "REM":1.82,
+    "total_staged":8.57,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-04",
+    "Core":4.72,
+    "Deep":0.85,
+    "REM":1.56,
+    "total_staged":7.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-05",
+    "Core":3.49,
+    "Deep":0.98,
+    "REM":1.0,
+    "total_staged":5.48,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-06",
+    "Core":3.92,
+    "Deep":0.78,
+    "REM":1.72,
+    "total_staged":6.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-07",
+    "Core":3.98,
+    "Deep":1.08,
+    "REM":1.46,
+    "total_staged":6.52,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-08",
+    "Core":3.72,
+    "Deep":0.72,
+    "REM":1.85,
+    "total_staged":6.29,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-09",
+    "Core":4.62,
+    "Deep":0.99,
+    "REM":1.21,
+    "total_staged":6.82,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-10",
+    "Core":4.38,
+    "Deep":0.62,
+    "REM":1.4,
+    "total_staged":6.4,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-11",
+    "Core":4.84,
+    "Deep":0.68,
+    "REM":0.85,
+    "total_staged":6.37,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-12",
+    "Core":5.0,
+    "Deep":0.93,
+    "REM":2.13,
+    "total_staged":8.07,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-13",
+    "Core":4.39,
+    "Deep":0.51,
+    "REM":1.0,
+    "total_staged":5.9,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-14",
+    "Core":5.12,
+    "Deep":1.01,
+    "REM":1.38,
+    "total_staged":7.51,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-15",
+    "Core":4.78,
+    "Deep":0.95,
+    "REM":1.6,
+    "total_staged":7.33,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-16",
+    "Core":4.72,
+    "Deep":0.8,
+    "REM":1.41,
+    "total_staged":6.93,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-18",
+    "Core":4.57,
+    "Deep":0.62,
+    "REM":1.26,
+    "total_staged":6.44,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-19",
+    "Core":3.72,
+    "Deep":0.61,
+    "REM":1.63,
+    "total_staged":5.97,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-20",
+    "Core":5.13,
+    "Deep":0.84,
+    "REM":1.66,
+    "total_staged":7.63,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-21",
+    "Core":5.52,
+    "Deep":0.85,
+    "REM":0.87,
+    "total_staged":7.23,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-22",
+    "Core":4.97,
+    "Deep":0.89,
+    "REM":1.88,
+    "total_staged":7.74,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-23",
+    "Core":4.53,
+    "Deep":0.48,
+    "REM":1.69,
+    "total_staged":6.71,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-24",
+    "Core":4.58,
+    "Deep":1.14,
+    "REM":1.45,
+    "total_staged":7.17,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-25",
+    "Core":5.12,
+    "Deep":0.65,
+    "REM":2.35,
+    "total_staged":8.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-26",
+    "Core":4.43,
+    "Deep":0.57,
+    "REM":1.42,
+    "total_staged":6.43,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-27",
+    "Core":5.13,
+    "Deep":0.41,
+    "REM":1.69,
+    "total_staged":7.23,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-28",
+    "Core":4.68,
+    "Deep":0.41,
+    "REM":1.54,
+    "total_staged":6.63,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-29",
+    "Core":4.15,
+    "Deep":0.69,
+    "REM":1.78,
+    "total_staged":6.62,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-04-30",
+    "Core":4.34,
+    "Deep":1.06,
+    "REM":1.82,
+    "total_staged":7.22,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-01",
+    "Core":5.04,
+    "Deep":0.82,
+    "REM":1.35,
+    "total_staged":7.21,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-02",
+    "Core":5.07,
+    "Deep":0.72,
+    "REM":1.85,
+    "total_staged":7.64,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-03",
+    "Core":3.08,
+    "Deep":0.93,
+    "REM":1.17,
+    "total_staged":5.18,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-04",
+    "Core":4.24,
+    "Deep":0.47,
+    "REM":1.49,
+    "total_staged":6.2,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-05",
+    "Core":3.71,
+    "Deep":1.26,
+    "REM":1.35,
+    "total_staged":6.32,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-06",
+    "Core":3.32,
+    "Deep":0.66,
+    "REM":0.78,
+    "total_staged":4.76,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-07",
+    "Core":4.31,
+    "Deep":0.72,
+    "REM":1.56,
+    "total_staged":6.59,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-08",
+    "Core":3.74,
+    "Deep":1.36,
+    "REM":0.81,
+    "total_staged":5.91,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-10",
+    "Core":4.54,
+    "Deep":0.71,
+    "REM":1.04,
+    "total_staged":6.29,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-11",
+    "Core":4.83,
+    "Deep":0.74,
+    "REM":1.54,
+    "total_staged":7.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-12",
+    "Core":4.02,
+    "Deep":1.08,
+    "REM":1.35,
+    "total_staged":6.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-13",
+    "Core":4.35,
+    "Deep":0.92,
+    "REM":1.63,
+    "total_staged":6.91,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-14",
+    "Core":3.85,
+    "Deep":1.11,
+    "REM":0.83,
+    "total_staged":5.79,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-15",
+    "Core":3.57,
+    "Deep":1.12,
+    "REM":1.37,
+    "total_staged":6.05,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-16",
+    "Core":4.58,
+    "Deep":0.82,
+    "REM":1.42,
+    "total_staged":6.83,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-18",
+    "Core":3.52,
+    "Deep":0.91,
+    "REM":1.38,
+    "total_staged":5.82,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-19",
+    "Core":4.55,
+    "Deep":0.68,
+    "REM":1.8,
+    "total_staged":7.02,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-20",
+    "Core":4.47,
+    "Deep":0.76,
+    "REM":1.54,
+    "total_staged":6.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-21",
+    "Core":3.28,
+    "Deep":1.56,
+    "REM":1.26,
+    "total_staged":6.09,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-22",
+    "Core":4.08,
+    "Deep":0.98,
+    "REM":1.81,
+    "total_staged":6.88,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-23",
+    "Core":4.03,
+    "Deep":1.18,
+    "REM":2.14,
+    "total_staged":7.36,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-24",
+    "Core":4.67,
+    "Deep":1.02,
+    "REM":1.81,
+    "total_staged":7.5,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-25",
+    "Core":3.93,
+    "Deep":1.03,
+    "REM":1.42,
+    "total_staged":6.39,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-26",
+    "Core":4.72,
+    "Deep":0.69,
+    "REM":1.53,
+    "total_staged":6.94,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-27",
+    "Core":4.41,
+    "Deep":1.12,
+    "REM":1.48,
+    "total_staged":7.01,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-28",
+    "Core":4.22,
+    "Deep":0.75,
+    "REM":1.57,
+    "total_staged":6.54,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-29",
+    "Core":4.82,
+    "Deep":0.93,
+    "REM":1.69,
+    "total_staged":7.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-30",
+    "Core":4.05,
+    "Deep":0.88,
+    "REM":1.98,
+    "total_staged":6.91,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-05-31",
+    "Core":5.12,
+    "Deep":1.12,
+    "REM":1.86,
+    "total_staged":8.1,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-01",
+    "Core":4.54,
+    "Deep":0.88,
+    "REM":1.23,
+    "total_staged":6.65,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-02",
+    "Core":4.57,
+    "Deep":0.88,
+    "REM":1.19,
+    "total_staged":6.63,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-03",
+    "Core":4.18,
+    "Deep":0.42,
+    "REM":1.1,
+    "total_staged":5.71,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-04",
+    "Core":4.74,
+    "Deep":0.48,
+    "REM":1.08,
+    "total_staged":6.3,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-05",
+    "Core":4.32,
+    "Deep":0.93,
+    "REM":1.27,
+    "total_staged":6.52,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-06",
+    "Core":4.12,
+    "Deep":1.03,
+    "REM":1.29,
+    "total_staged":6.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-07",
+    "Core":4.08,
+    "Deep":1.12,
+    "REM":1.55,
+    "total_staged":6.75,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-08",
+    "Core":3.66,
+    "Deep":0.67,
+    "REM":1.71,
+    "total_staged":6.03,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-09",
+    "Core":3.64,
+    "Deep":0.68,
+    "REM":0.77,
+    "total_staged":5.09,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-10",
+    "Core":3.68,
+    "Deep":0.85,
+    "REM":1.28,
+    "total_staged":5.81,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-11",
+    "Core":4.29,
+    "Deep":0.85,
+    "REM":1.77,
+    "total_staged":6.91,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-12",
+    "Core":3.67,
+    "Deep":1.06,
+    "REM":1.25,
+    "total_staged":5.98,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-13",
+    "Core":4.2,
+    "Deep":0.6,
+    "REM":1.24,
+    "total_staged":6.04,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-14",
+    "Core":3.12,
+    "Deep":0.47,
+    "REM":1.28,
+    "total_staged":4.88,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-15",
+    "Core":3.71,
+    "Deep":1.08,
+    "REM":1.9,
+    "total_staged":6.68,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-16",
+    "Core":3.54,
+    "Deep":1.02,
+    "REM":1.45,
+    "total_staged":6.01,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-17",
+    "Core":3.48,
+    "Deep":0.98,
+    "REM":1.82,
+    "total_staged":6.28,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-18",
+    "Core":3.87,
+    "Deep":0.7,
+    "REM":1.77,
+    "total_staged":6.33,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-19",
+    "Core":4.51,
+    "Deep":0.42,
+    "REM":1.84,
+    "total_staged":6.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-20",
+    "Core":3.92,
+    "Deep":0.32,
+    "REM":1.52,
+    "total_staged":5.76,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-21",
+    "Core":4.44,
+    "Deep":0.78,
+    "REM":1.2,
+    "total_staged":6.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-22",
+    "Core":5.24,
+    "Deep":0.77,
+    "REM":1.84,
+    "total_staged":7.85,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-23",
+    "Core":4.02,
+    "Deep":0.9,
+    "REM":1.82,
+    "total_staged":6.73,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-24",
+    "Core":4.0,
+    "Deep":0.53,
+    "REM":1.09,
+    "total_staged":5.62,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-25",
+    "Core":3.48,
+    "Deep":0.69,
+    "REM":1.26,
+    "total_staged":5.43,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-26",
+    "Core":4.0,
+    "Deep":1.0,
+    "REM":0.98,
+    "total_staged":5.98,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-27",
+    "Core":3.85,
+    "Deep":0.6,
+    "REM":0.81,
+    "total_staged":5.26,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-28",
+    "Core":3.58,
+    "Deep":0.62,
+    "REM":1.52,
+    "total_staged":5.72,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-29",
+    "Core":2.57,
+    "Deep":1.01,
+    "REM":1.23,
+    "total_staged":4.8,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-06-30",
+    "Core":4.02,
+    "Deep":0.46,
+    "REM":1.3,
+    "total_staged":5.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-01",
+    "Core":4.34,
+    "Deep":0.97,
+    "REM":1.33,
+    "total_staged":6.64,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-02",
+    "Core":3.53,
+    "Deep":1.08,
+    "REM":1.59,
+    "total_staged":6.2,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-03",
+    "Core":4.58,
+    "Deep":0.96,
+    "REM":1.71,
+    "total_staged":7.25,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-04",
+    "Core":4.64,
+    "Deep":1.08,
+    "REM":1.06,
+    "total_staged":6.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-05",
+    "Core":4.03,
+    "Deep":0.55,
+    "REM":1.34,
+    "total_staged":5.92,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-06",
+    "Core":3.73,
+    "Deep":0.92,
+    "REM":1.14,
+    "total_staged":5.79,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-07",
+    "Core":4.25,
+    "Deep":0.94,
+    "REM":1.46,
+    "total_staged":6.65,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-08",
+    "Core":4.72,
+    "Deep":0.93,
+    "REM":0.69,
+    "total_staged":6.34,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-09",
+    "Core":3.38,
+    "Deep":0.91,
+    "REM":1.38,
+    "total_staged":5.68,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-10",
+    "Core":3.42,
+    "Deep":0.7,
+    "REM":1.01,
+    "total_staged":5.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-11",
+    "Core":3.92,
+    "Deep":1.02,
+    "REM":1.17,
+    "total_staged":6.11,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-12",
+    "Core":3.78,
+    "Deep":0.52,
+    "REM":1.82,
+    "total_staged":6.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-13",
+    "Core":4.72,
+    "Deep":0.8,
+    "REM":1.77,
+    "total_staged":7.28,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-14",
+    "Core":3.85,
+    "Deep":0.57,
+    "REM":0.43,
+    "total_staged":4.86,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-15",
+    "Core":3.76,
+    "Deep":0.88,
+    "REM":1.53,
+    "total_staged":6.17,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-16",
+    "Core":4.98,
+    "Deep":0.65,
+    "REM":1.47,
+    "total_staged":7.1,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-17",
+    "Core":4.09,
+    "Deep":0.68,
+    "REM":1.39,
+    "total_staged":6.16,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-18",
+    "Core":4.29,
+    "Deep":1.21,
+    "REM":1.64,
+    "total_staged":7.14,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-19",
+    "Core":6.17,
+    "Deep":0.74,
+    "REM":2.22,
+    "total_staged":9.13,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-20",
+    "Core":5.21,
+    "Deep":0.87,
+    "REM":1.92,
+    "total_staged":7.99,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-21",
+    "Core":4.72,
+    "Deep":0.98,
+    "REM":1.55,
+    "total_staged":7.25,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-22",
+    "Core":4.89,
+    "Deep":0.63,
+    "REM":1.48,
+    "total_staged":7.0,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-23",
+    "Core":5.79,
+    "Deep":0.53,
+    "REM":1.25,
+    "total_staged":7.58,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-24",
+    "Core":4.08,
+    "Deep":0.49,
+    "REM":1.37,
+    "total_staged":5.93,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-25",
+    "Core":3.92,
+    "Deep":0.83,
+    "REM":1.88,
+    "total_staged":6.63,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-26",
+    "Core":4.1,
+    "Deep":0.79,
+    "REM":1.33,
+    "total_staged":6.22,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-27",
+    "Core":4.69,
+    "Deep":0.85,
+    "REM":1.12,
+    "total_staged":6.66,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-28",
+    "Core":3.67,
+    "Deep":0.57,
+    "REM":0.93,
+    "total_staged":5.17,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-29",
+    "Core":3.94,
+    "Deep":0.48,
+    "REM":0.88,
+    "total_staged":5.3,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-30",
+    "Core":3.57,
+    "Deep":1.08,
+    "REM":1.38,
+    "total_staged":6.03,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-07-31",
+    "Core":5.28,
+    "Deep":0.67,
+    "REM":1.48,
+    "total_staged":7.43,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-01",
+    "Core":4.38,
+    "Deep":0.5,
+    "REM":1.83,
+    "total_staged":6.71,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-02",
+    "Core":4.84,
+    "Deep":0.58,
+    "REM":1.03,
+    "total_staged":6.46,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-03",
+    "Core":4.03,
+    "Deep":0.85,
+    "REM":1.47,
+    "total_staged":6.35,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-04",
+    "Core":3.36,
+    "Deep":1.35,
+    "REM":1.85,
+    "total_staged":6.56,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-05",
+    "Core":4.84,
+    "Deep":0.4,
+    "REM":1.26,
+    "total_staged":6.5,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-06",
+    "Core":4.8,
+    "Deep":0.89,
+    "REM":1.48,
+    "total_staged":7.18,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-07",
+    "Core":4.53,
+    "Deep":0.43,
+    "REM":0.98,
+    "total_staged":5.93,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-08",
+    "Core":4.62,
+    "Deep":1.04,
+    "REM":1.45,
+    "total_staged":7.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-09",
+    "Core":4.32,
+    "Deep":1.11,
+    "REM":1.36,
+    "total_staged":6.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-10",
+    "Core":3.21,
+    "Deep":0.42,
+    "REM":0.74,
+    "total_staged":4.37,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-11",
+    "Core":3.78,
+    "Deep":0.78,
+    "REM":1.7,
+    "total_staged":6.27,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-12",
+    "Core":3.76,
+    "Deep":0.27,
+    "REM":1.34,
+    "total_staged":5.37,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-14",
+    "Core":4.97,
+    "Deep":0.98,
+    "REM":1.14,
+    "total_staged":7.08,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-15",
+    "Core":4.23,
+    "Deep":0.73,
+    "REM":1.22,
+    "total_staged":6.18,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-16",
+    "Core":3.95,
+    "Deep":0.7,
+    "REM":0.98,
+    "total_staged":5.63,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-17",
+    "Core":3.92,
+    "Deep":0.78,
+    "REM":1.07,
+    "total_staged":5.77,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-18",
+    "Core":4.88,
+    "Deep":0.52,
+    "REM":1.65,
+    "total_staged":7.05,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-19",
+    "Core":4.32,
+    "Deep":0.83,
+    "REM":0.87,
+    "total_staged":6.02,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-20",
+    "Core":3.52,
+    "Deep":0.96,
+    "REM":1.48,
+    "total_staged":5.95,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-21",
+    "Core":3.62,
+    "Deep":0.57,
+    "REM":1.25,
+    "total_staged":5.44,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-22",
+    "Core":3.75,
+    "Deep":0.97,
+    "REM":0.93,
+    "total_staged":5.65,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-23",
+    "Core":5.14,
+    "Deep":1.01,
+    "REM":1.03,
+    "total_staged":7.18,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-24",
+    "Core":4.17,
+    "Deep":0.98,
+    "REM":1.27,
+    "total_staged":6.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-25",
+    "Core":3.89,
+    "Deep":0.75,
+    "REM":1.04,
+    "total_staged":5.68,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-26",
+    "Core":3.96,
+    "Deep":0.85,
+    "REM":1.29,
+    "total_staged":6.1,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-27",
+    "Core":3.53,
+    "Deep":0.49,
+    "REM":1.62,
+    "total_staged":5.64,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-28",
+    "Core":3.82,
+    "Deep":0.68,
+    "REM":1.0,
+    "total_staged":5.49,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-29",
+    "Core":3.59,
+    "Deep":0.61,
+    "REM":0.78,
+    "total_staged":4.98,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-30",
+    "Core":4.15,
+    "Deep":0.46,
+    "REM":0.48,
+    "total_staged":5.09,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-08-31",
+    "Core":3.37,
+    "Deep":1.15,
+    "REM":0.91,
+    "total_staged":5.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-01",
+    "Core":2.94,
+    "Deep":0.44,
+    "REM":0.62,
+    "total_staged":4.0,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-02",
+    "Core":4.59,
+    "Deep":0.7,
+    "REM":1.72,
+    "total_staged":7.02,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-03",
+    "Core":2.97,
+    "Deep":0.99,
+    "REM":1.13,
+    "total_staged":5.09,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-04",
+    "Core":4.2,
+    "Deep":0.82,
+    "REM":1.09,
+    "total_staged":6.12,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-05",
+    "Core":4.33,
+    "Deep":1.02,
+    "REM":1.19,
+    "total_staged":6.55,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-06",
+    "Core":4.5,
+    "Deep":0.81,
+    "REM":0.82,
+    "total_staged":6.13,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-07",
+    "Core":4.13,
+    "Deep":0.84,
+    "REM":1.02,
+    "total_staged":6.0,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-08",
+    "Core":5.01,
+    "Deep":0.49,
+    "REM":1.22,
+    "total_staged":6.72,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-09",
+    "Core":3.83,
+    "Deep":0.68,
+    "REM":0.82,
+    "total_staged":5.33,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-10",
+    "Core":2.53,
+    "Deep":1.11,
+    "REM":0.81,
+    "total_staged":4.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-11",
+    "Core":4.0,
+    "Deep":0.77,
+    "REM":0.85,
+    "total_staged":5.62,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-12",
+    "Core":3.34,
+    "Deep":0.96,
+    "REM":1.39,
+    "total_staged":5.69,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-13",
+    "Core":3.82,
+    "Deep":0.51,
+    "REM":0.85,
+    "total_staged":5.18,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-14",
+    "Core":4.36,
+    "Deep":1.11,
+    "REM":0.78,
+    "total_staged":6.24,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-16",
+    "Core":4.72,
+    "Deep":0.54,
+    "REM":1.16,
+    "total_staged":6.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-17",
+    "Core":3.13,
+    "Deep":0.47,
+    "REM":0.34,
+    "total_staged":3.94,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-18",
+    "Core":4.38,
+    "Deep":0.92,
+    "REM":1.47,
+    "total_staged":6.77,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-19",
+    "Core":3.62,
+    "Deep":0.74,
+    "REM":1.06,
+    "total_staged":5.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-20",
+    "Core":5.21,
+    "Deep":0.88,
+    "REM":1.27,
+    "total_staged":7.36,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-21",
+    "Core":3.63,
+    "Deep":0.48,
+    "REM":0.66,
+    "total_staged":4.77,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-22",
+    "Core":4.05,
+    "Deep":0.66,
+    "REM":0.45,
+    "total_staged":5.16,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-23",
+    "Core":4.13,
+    "Deep":0.82,
+    "REM":1.56,
+    "total_staged":6.51,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-24",
+    "Core":2.99,
+    "Deep":0.79,
+    "REM":0.9,
+    "total_staged":4.68,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-25",
+    "Core":4.8,
+    "Deep":1.0,
+    "REM":1.36,
+    "total_staged":7.16,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-26",
+    "Core":4.98,
+    "Deep":0.88,
+    "REM":1.46,
+    "total_staged":7.32,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-27",
+    "Core":3.06,
+    "Deep":0.48,
+    "REM":0.91,
+    "total_staged":4.45,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-29",
+    "Core":3.21,
+    "Deep":0.57,
+    "REM":1.42,
+    "total_staged":5.21,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-09-30",
+    "Core":3.47,
+    "Deep":0.73,
+    "REM":0.94,
+    "total_staged":5.14,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-01",
+    "Core":4.45,
+    "Deep":0.35,
+    "REM":0.58,
+    "total_staged":5.38,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-02",
+    "Core":4.8,
+    "Deep":0.5,
+    "REM":0.96,
+    "total_staged":6.26,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-03",
+    "Core":4.12,
+    "Deep":0.71,
+    "REM":0.72,
+    "total_staged":5.55,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-04",
+    "Core":3.32,
+    "Deep":0.84,
+    "REM":1.12,
+    "total_staged":5.28,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-05",
+    "Core":4.21,
+    "Deep":0.62,
+    "REM":1.56,
+    "total_staged":6.39,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-06",
+    "Core":2.42,
+    "Deep":0.58,
+    "REM":0.72,
+    "total_staged":3.72,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-07",
+    "Core":3.66,
+    "Deep":0.49,
+    "REM":1.29,
+    "total_staged":5.44,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-08",
+    "Core":4.05,
+    "Deep":0.77,
+    "REM":0.62,
+    "total_staged":5.44,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-09",
+    "Core":3.21,
+    "Deep":0.78,
+    "REM":1.35,
+    "total_staged":5.34,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-10",
+    "Core":3.93,
+    "Deep":0.82,
+    "REM":1.16,
+    "total_staged":5.92,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-11",
+    "Core":2.77,
+    "Deep":0.78,
+    "REM":0.96,
+    "total_staged":4.51,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-13",
+    "Core":2.88,
+    "Deep":0.53,
+    "REM":0.45,
+    "total_staged":3.86,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-14",
+    "Core":3.28,
+    "Deep":0.83,
+    "REM":1.05,
+    "total_staged":5.16,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-15",
+    "Core":3.37,
+    "Deep":0.72,
+    "REM":0.86,
+    "total_staged":4.94,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-16",
+    "Core":3.47,
+    "Deep":0.76,
+    "REM":0.55,
+    "total_staged":4.77,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-17",
+    "Core":3.51,
+    "Deep":1.03,
+    "REM":1.09,
+    "total_staged":5.63,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-19",
+    "Core":2.04,
+    "Deep":0.85,
+    "REM":0.48,
+    "total_staged":3.38,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-20",
+    "Core":3.59,
+    "Deep":0.6,
+    "REM":1.29,
+    "total_staged":5.48,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-21",
+    "Core":4.31,
+    "Deep":0.82,
+    "REM":0.35,
+    "total_staged":5.48,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-22",
+    "Core":2.58,
+    "Deep":0.62,
+    "REM":0.67,
+    "total_staged":3.86,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-23",
+    "Core":2.78,
+    "Deep":0.81,
+    "REM":1.19,
+    "total_staged":4.78,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-25",
+    "Core":2.98,
+    "Deep":0.67,
+    "REM":1.32,
+    "total_staged":4.97,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-27",
+    "Core":3.63,
+    "Deep":0.88,
+    "REM":1.0,
+    "total_staged":5.51,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-29",
+    "Core":3.15,
+    "Deep":0.5,
+    "REM":0.52,
+    "total_staged":4.17,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-30",
+    "Core":3.88,
+    "Deep":0.69,
+    "REM":1.51,
+    "total_staged":6.07,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-10-31",
+    "Core":3.42,
+    "Deep":0.56,
+    "REM":1.07,
+    "total_staged":5.05,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-01",
+    "Core":1.88,
+    "Deep":0.48,
+    "REM":0.74,
+    "total_staged":3.1,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-02",
+    "Core":4.22,
+    "Deep":0.96,
+    "REM":1.23,
+    "total_staged":6.41,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-03",
+    "Core":3.62,
+    "Deep":0.45,
+    "REM":1.08,
+    "total_staged":5.16,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-04",
+    "Core":2.56,
+    "Deep":1.14,
+    "REM":1.11,
+    "total_staged":4.81,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-05",
+    "Core":3.03,
+    "Deep":0.63,
+    "REM":0.32,
+    "total_staged":3.98,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-06",
+    "Core":2.76,
+    "Deep":0.62,
+    "REM":1.04,
+    "total_staged":4.42,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-07",
+    "Core":3.23,
+    "Deep":0.49,
+    "REM":1.01,
+    "total_staged":4.73,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-08",
+    "Core":3.38,
+    "Deep":0.74,
+    "REM":1.08,
+    "total_staged":5.21,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-09",
+    "Core":2.95,
+    "Deep":0.15,
+    "REM":1.19,
+    "total_staged":4.29,
+    "phase":"Pregnancy 2"
+  },
+  {
+    "night_date":"2025-11-13",
+    "Core":3.5,
+    "Deep":0.37,
+    "REM":0.89,
+    "total_staged":4.76,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-14",
+    "Core":2.73,
+    "Deep":0.23,
+    "REM":1.08,
+    "total_staged":4.05,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-15",
+    "Core":1.59,
+    "Deep":0.85,
+    "REM":1.08,
+    "total_staged":3.52,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-17",
+    "Core":3.77,
+    "Deep":0.64,
+    "REM":0.68,
+    "total_staged":5.09,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-18",
+    "Core":2.4,
+    "Deep":0.79,
+    "REM":0.87,
+    "total_staged":4.06,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-19",
+    "Core":1.8,
+    "Deep":0.83,
+    "REM":0.87,
+    "total_staged":3.5,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-20",
+    "Core":3.3,
+    "Deep":0.4,
+    "REM":1.51,
+    "total_staged":5.21,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-21",
+    "Core":3.28,
+    "Deep":0.61,
+    "REM":0.82,
+    "total_staged":4.71,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-22",
+    "Core":3.03,
+    "Deep":0.47,
+    "REM":0.54,
+    "total_staged":4.04,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-23",
+    "Core":4.13,
+    "Deep":0.56,
+    "REM":1.62,
+    "total_staged":6.31,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-24",
+    "Core":3.04,
+    "Deep":0.32,
+    "REM":1.09,
+    "total_staged":4.46,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-25",
+    "Core":2.36,
+    "Deep":0.94,
+    "REM":1.39,
+    "total_staged":4.69,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-26",
+    "Core":3.54,
+    "Deep":0.71,
+    "REM":1.02,
+    "total_staged":5.27,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-27",
+    "Core":2.28,
+    "Deep":0.83,
+    "REM":0.99,
+    "total_staged":4.1,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-29",
+    "Core":2.68,
+    "Deep":0.93,
+    "REM":0.6,
+    "total_staged":4.21,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-11-30",
+    "Core":3.22,
+    "Deep":0.79,
+    "REM":1.27,
+    "total_staged":5.28,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-01",
+    "Core":3.32,
+    "Deep":0.57,
+    "REM":1.14,
+    "total_staged":5.03,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-02",
+    "Core":3.15,
+    "Deep":0.5,
+    "REM":1.78,
+    "total_staged":5.42,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-03",
+    "Core":2.66,
+    "Deep":0.78,
+    "REM":0.73,
+    "total_staged":4.18,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-04",
+    "Core":2.78,
+    "Deep":0.61,
+    "REM":0.97,
+    "total_staged":4.36,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-05",
+    "Core":2.22,
+    "Deep":0.88,
+    "REM":0.68,
+    "total_staged":3.78,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-07",
+    "Core":4.85,
+    "Deep":0.62,
+    "REM":1.72,
+    "total_staged":7.19,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-08",
+    "Core":3.01,
+    "Deep":0.88,
+    "REM":1.07,
+    "total_staged":4.95,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-09",
+    "Core":4.12,
+    "Deep":0.94,
+    "REM":0.91,
+    "total_staged":5.98,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-10",
+    "Core":3.57,
+    "Deep":0.82,
+    "REM":1.27,
+    "total_staged":5.66,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-11",
+    "Core":2.16,
+    "Deep":1.15,
+    "REM":1.18,
+    "total_staged":4.49,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-12",
+    "Core":3.47,
+    "Deep":0.45,
+    "REM":1.48,
+    "total_staged":5.4,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-13",
+    "Core":3.51,
+    "Deep":0.92,
+    "REM":1.15,
+    "total_staged":5.57,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-14",
+    "Core":3.99,
+    "Deep":1.48,
+    "REM":1.22,
+    "total_staged":6.68,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-15",
+    "Core":3.64,
+    "Deep":1.24,
+    "REM":1.74,
+    "total_staged":6.62,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-16",
+    "Core":4.26,
+    "Deep":0.82,
+    "REM":1.61,
+    "total_staged":6.68,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-17",
+    "Core":3.68,
+    "Deep":0.76,
+    "REM":1.46,
+    "total_staged":5.89,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-18",
+    "Core":4.05,
+    "Deep":1.25,
+    "REM":2.17,
+    "total_staged":7.48,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-19",
+    "Core":2.91,
+    "Deep":0.92,
+    "REM":0.99,
+    "total_staged":4.82,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-20",
+    "Core":3.96,
+    "Deep":0.97,
+    "REM":2.23,
+    "total_staged":7.16,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-21",
+    "Core":3.47,
+    "Deep":0.78,
+    "REM":1.55,
+    "total_staged":5.79,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-22",
+    "Core":3.19,
+    "Deep":0.69,
+    "REM":0.94,
+    "total_staged":4.82,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-23",
+    "Core":4.09,
+    "Deep":1.13,
+    "REM":1.4,
+    "total_staged":6.62,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-24",
+    "Core":2.45,
+    "Deep":0.32,
+    "REM":1.02,
+    "total_staged":3.8,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-27",
+    "Core":3.49,
+    "Deep":0.97,
+    "REM":1.78,
+    "total_staged":6.24,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-29",
+    "Core":2.92,
+    "Deep":0.58,
+    "REM":1.08,
+    "total_staged":4.59,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2025-12-30",
+    "Core":2.78,
+    "Deep":0.72,
+    "REM":0.85,
+    "total_staged":4.36,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-01",
+    "Core":1.98,
+    "Deep":0.92,
+    "REM":0.88,
+    "total_staged":3.79,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-02",
+    "Core":2.61,
+    "Deep":0.28,
+    "REM":0.86,
+    "total_staged":3.74,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-03",
+    "Core":2.81,
+    "Deep":0.52,
+    "REM":0.6,
+    "total_staged":3.92,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-04",
+    "Core":2.88,
+    "Deep":0.62,
+    "REM":0.98,
+    "total_staged":4.47,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-05",
+    "Core":3.06,
+    "Deep":0.78,
+    "REM":1.18,
+    "total_staged":5.02,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-06",
+    "Core":2.92,
+    "Deep":0.69,
+    "REM":1.35,
+    "total_staged":4.96,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-07",
+    "Core":2.91,
+    "Deep":0.95,
+    "REM":1.01,
+    "total_staged":4.87,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-08",
+    "Core":3.05,
+    "Deep":0.92,
+    "REM":1.14,
+    "total_staged":5.12,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-09",
+    "Core":2.42,
+    "Deep":0.72,
+    "REM":1.14,
+    "total_staged":4.28,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-11",
+    "Core":3.44,
+    "Deep":0.46,
+    "REM":1.18,
+    "total_staged":5.08,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-12",
+    "Core":2.82,
+    "Deep":0.58,
+    "REM":0.72,
+    "total_staged":4.12,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-13",
+    "Core":3.38,
+    "Deep":0.41,
+    "REM":1.22,
+    "total_staged":5.0,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-14",
+    "Core":3.52,
+    "Deep":0.38,
+    "REM":1.48,
+    "total_staged":5.38,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-16",
+    "Core":2.48,
+    "Deep":0.57,
+    "REM":1.18,
+    "total_staged":4.22,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-17",
+    "Core":2.86,
+    "Deep":0.9,
+    "REM":1.24,
+    "total_staged":5.0,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-18",
+    "Core":1.66,
+    "Deep":1.0,
+    "REM":0.42,
+    "total_staged":3.08,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-19",
+    "Core":3.13,
+    "Deep":0.92,
+    "REM":1.9,
+    "total_staged":5.96,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-20",
+    "Core":2.98,
+    "Deep":0.69,
+    "REM":1.51,
+    "total_staged":5.18,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-21",
+    "Core":3.18,
+    "Deep":0.57,
+    "REM":1.01,
+    "total_staged":4.76,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-22",
+    "Core":3.51,
+    "Deep":0.39,
+    "REM":1.11,
+    "total_staged":5.01,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-23",
+    "Core":3.22,
+    "Deep":0.83,
+    "REM":0.79,
+    "total_staged":4.85,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-24",
+    "Core":2.12,
+    "Deep":0.94,
+    "REM":0.77,
+    "total_staged":3.82,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-25",
+    "Core":3.35,
+    "Deep":0.42,
+    "REM":1.26,
+    "total_staged":5.03,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-26",
+    "Core":2.14,
+    "Deep":0.78,
+    "REM":0.92,
+    "total_staged":3.85,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-27",
+    "Core":2.78,
+    "Deep":1.04,
+    "REM":1.08,
+    "total_staged":4.89,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-28",
+    "Core":3.02,
+    "Deep":1.01,
+    "REM":1.07,
+    "total_staged":5.09,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-29",
+    "Core":2.45,
+    "Deep":1.32,
+    "REM":1.26,
+    "total_staged":5.03,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-30",
+    "Core":2.85,
+    "Deep":1.08,
+    "REM":1.08,
+    "total_staged":5.01,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-01-31",
+    "Core":2.41,
+    "Deep":1.17,
+    "REM":1.43,
+    "total_staged":5.01,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-01",
+    "Core":2.99,
+    "Deep":1.08,
+    "REM":1.37,
+    "total_staged":5.43,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-02",
+    "Core":2.3,
+    "Deep":0.99,
+    "REM":1.54,
+    "total_staged":4.83,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-03",
+    "Core":3.32,
+    "Deep":0.67,
+    "REM":1.02,
+    "total_staged":5.0,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-04",
+    "Core":3.04,
+    "Deep":0.34,
+    "REM":0.52,
+    "total_staged":3.9,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-05",
+    "Core":2.87,
+    "Deep":1.07,
+    "REM":1.65,
+    "total_staged":5.58,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-06",
+    "Core":3.02,
+    "Deep":1.08,
+    "REM":1.08,
+    "total_staged":5.18,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-07",
+    "Core":3.4,
+    "Deep":0.85,
+    "REM":1.02,
+    "total_staged":5.28,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-08",
+    "Core":2.33,
+    "Deep":0.52,
+    "REM":0.7,
+    "total_staged":3.56,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-09",
+    "Core":3.5,
+    "Deep":0.52,
+    "REM":0.52,
+    "total_staged":4.55,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-10",
+    "Core":1.8,
+    "Deep":0.89,
+    "REM":0.93,
+    "total_staged":3.62,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-11",
+    "Core":3.06,
+    "Deep":0.38,
+    "REM":0.88,
+    "total_staged":4.31,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-12",
+    "Core":2.02,
+    "Deep":0.9,
+    "REM":1.12,
+    "total_staged":4.04,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-14",
+    "Core":2.29,
+    "Deep":1.05,
+    "REM":0.7,
+    "total_staged":4.04,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-15",
+    "Core":2.05,
+    "Deep":0.88,
+    "REM":1.38,
+    "total_staged":4.31,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-16",
+    "Core":2.57,
+    "Deep":0.6,
+    "REM":0.82,
+    "total_staged":3.99,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-17",
+    "Core":2.47,
+    "Deep":0.85,
+    "REM":0.98,
+    "total_staged":4.3,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-18",
+    "Core":2.42,
+    "Deep":0.67,
+    "REM":0.89,
+    "total_staged":3.98,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-19",
+    "Core":2.66,
+    "Deep":0.53,
+    "REM":1.27,
+    "total_staged":4.46,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-20",
+    "Core":2.29,
+    "Deep":0.98,
+    "REM":1.34,
+    "total_staged":4.61,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-21",
+    "Core":3.33,
+    "Deep":1.33,
+    "REM":1.74,
+    "total_staged":6.39,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-22",
+    "Core":3.34,
+    "Deep":1.23,
+    "REM":1.2,
+    "total_staged":5.77,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-23",
+    "Core":2.79,
+    "Deep":1.03,
+    "REM":1.12,
+    "total_staged":4.94,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-24",
+    "Core":3.84,
+    "Deep":0.69,
+    "REM":1.18,
+    "total_staged":5.72,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-25",
+    "Core":2.22,
+    "Deep":0.54,
+    "REM":0.57,
+    "total_staged":3.33,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-26",
+    "Core":4.05,
+    "Deep":0.42,
+    "REM":1.79,
+    "total_staged":6.26,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-27",
+    "Core":3.51,
+    "Deep":0.53,
+    "REM":1.01,
+    "total_staged":5.06,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-02-28",
+    "Core":3.48,
+    "Deep":0.8,
+    "REM":0.73,
+    "total_staged":5.01,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-01",
+    "Core":3.09,
+    "Deep":0.58,
+    "REM":1.26,
+    "total_staged":4.92,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-02",
+    "Core":1.8,
+    "Deep":0.63,
+    "REM":0.87,
+    "total_staged":3.3,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-05",
+    "Core":2.34,
+    "Deep":0.98,
+    "REM":0.73,
+    "total_staged":4.05,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-06",
+    "Core":3.65,
+    "Deep":0.66,
+    "REM":1.48,
+    "total_staged":5.8,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-07",
+    "Core":2.38,
+    "Deep":1.02,
+    "REM":0.97,
+    "total_staged":4.36,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-08",
+    "Core":2.5,
+    "Deep":1.07,
+    "REM":0.85,
+    "total_staged":4.41,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-09",
+    "Core":2.6,
+    "Deep":0.67,
+    "REM":0.53,
+    "total_staged":3.8,
+    "phase":"Postpartum 2"
+  },
+  {
+    "night_date":"2026-03-10",
+    "Core":3.35,
+    "Deep":1.35,
+    "REM":1.78,
+    "total_staged":6.48,
+    "phase":"Postpartum 2"
+  }
+]
