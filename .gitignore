@@ -1,5 +1,7 @@
 node_modules/
 .DS_Store
 export.xml
+export_cda.xml
+heartrate_data.json
 web/dist/
 web/node_modules/
