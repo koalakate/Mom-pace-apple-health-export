@@ -289,3 +289,13 @@
   image-rendering: crisp-edges;
 }
 
+/* ── Mobile: hide track elements as CSS safety net ────────── */
+@media (max-width: 768px) {
+  .arcade-hud,
+  .arcade-camera,
+  .arcade-tooltip,
+  .arcade-track-wrap {
+    display: none !important;
+  }
+}
+
