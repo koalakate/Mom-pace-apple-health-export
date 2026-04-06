@@ -23,9 +23,9 @@ export default function MobileStub() {
   const compact = vh < 660;
   const tiny = vh < 540;
 
-  const avatarScale = tiny ? 1.5 : compact ? 2 : 2.5;
-  const avatarMargin = tiny ? '1.5rem 0 1rem' : compact ? '2rem 0 1.5rem' : '3rem 0 2.5rem';
-  const padTop = tiny ? '1.5rem' : compact ? '2rem' : '3rem';
+  const avatarScale = tiny ? 1.2 : compact ? 1.6 : 2;
+  const avatarMargin = tiny ? '1rem 0 0.75rem' : compact ? '1.5rem 0 1rem' : '2rem 0 1.5rem';
+  const padTop = tiny ? '1rem' : compact ? '1.5rem' : '2.5rem';
   const labelSize = tiny ? '14px' : '18px';
   const subtitleSize = tiny ? '10px' : '11px';
 
@@ -117,13 +117,13 @@ const styles = {
     textShadow: '0 0 8px rgba(255,214,66,0.4)',
     letterSpacing: '0.1em',
     lineHeight: 2.2,
-    marginTop: '12px',
+    marginTop: '8px',
   },
   subtitle: {
     fontFamily: "var(--arcade-mono)",
     color: '#8b88a8',
     lineHeight: 2,
-    marginTop: '16px',
+    marginTop: '10px',
     maxWidth: '30ch',
   },
   avatar: {
@@ -133,15 +133,15 @@ const styles = {
     fontFamily: "'Press Start 2P', monospace",
     fontSize: '8px',
     color: '#e8e6f0',
-    lineHeight: 2.4,
+    lineHeight: 2.2,
   },
   footer: {
     flexShrink: 0,
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    gap: '12px',
-    paddingTop: '1rem',
+    gap: '8px',
+    paddingTop: '0.75rem',
     paddingBottom: '0.5rem',
   },
   author: {
