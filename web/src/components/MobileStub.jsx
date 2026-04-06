@@ -25,7 +25,7 @@ export default function MobileStub() {
 
   const avatarScale = tiny ? 1.2 : compact ? 1.6 : 2;
   const avatarMargin = tiny ? '1rem 0 0.75rem' : compact ? '1.5rem 0 1rem' : '2rem 0 1.5rem';
-  const padTop = tiny ? '1rem' : compact ? '1.5rem' : '2.5rem';
+  const padTop = tiny ? '0.2rem' : compact ? '0.5rem' : '1.5rem';
   const labelSize = tiny ? '14px' : '18px';
   const subtitleSize = tiny ? '10px' : '11px';
 
