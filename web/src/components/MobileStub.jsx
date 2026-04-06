@@ -1,20 +1,52 @@
+import { useState, useEffect } from 'react';
 import PixelAvatar from './PixelAvatar';
 import '../styles/arcade-theme.css';
 
-export default function MobileStub() {
-  return (
-    <div className="arcade-page" style={styles.container}>
-      <div style={styles.content}>
-        <p style={styles.label}>MOM'S PACE</p>
-        <h1 style={styles.title}>MOTHERHOOD &amp; SLEEP</h1>
-        <p style={styles.subtitle}>
-          A data story about how becoming a mother
-          reshapes the rhythm of rest.
-        </p>
+function useViewportHeight() {
+  const [vh, setVh] = useState(
+    () => typeof window !== 'undefined' ? window.innerHeight : 800
+  );
+  useEffect(() => {
+    const update = () => setVh(window.innerHeight);
+    window.addEventListener('resize', update);
+    window.visualViewport?.addEventListener('resize', update);
+    return () => {
+      window.removeEventListener('resize', update);
+      window.visualViewport?.removeEventListener('resize', update);
+    };
+  }, []);
+  return vh;
+}
 
-        <div style={styles.avatar}>
+export default function MobileStub() {
+  const vh = useViewportHeight();
+  const compact = vh < 660;
+  const tiny = vh < 540;
+
+  const avatarScale = tiny ? 1.5 : compact ? 2 : 2.5;
+  const avatarMargin = tiny ? '1.5rem 0 1rem' : compact ? '2rem 0 1.5rem' : '3rem 0 2.5rem';
+  const padTop = tiny ? '1.5rem' : compact ? '2rem' : '3rem';
+  const labelSize = tiny ? '14px' : '18px';
+  const subtitleSize = tiny ? '10px' : '11px';
+
+  return (
+    <div className="arcade-page" style={{
+      ...styles.container,
+      padding: `${padTop} 2rem 2rem`,
+    }}>
+      <div style={styles.content}>
+        <p style={{ ...styles.label, fontSize: labelSize }}>MOM'S PACE</p>
+        <h1 style={styles.title}>MOTHERHOOD &amp; SLEEP</h1>
+        {!tiny && (
+          <p style={{ ...styles.subtitle, fontSize: subtitleSize }}>
+            A data story about how becoming a mother
+            reshapes the rhythm of rest.
+          </p>
+        )}
+
+        <div style={{ ...styles.avatar, margin: avatarMargin }}>
           <div className="arcade-avatar__bounce">
-            <PixelAvatar phase="Pre-pregnancy" scale={2.5} animate />
+            <PixelAvatar phase="Pre-pregnancy" scale={avatarScale} animate />
           </div>
         </div>
 
@@ -52,17 +84,19 @@ export default function MobileStub() {
 
 const styles = {
   container: {
-    minHeight: '100dvh',
+    height: '100dvh',
+    maxHeight: '100dvh',
+    overflow: 'hidden',
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'space-between',
     alignItems: 'center',
-    padding: '3rem 2rem 2rem',
     boxSizing: 'border-box',
     textAlign: 'center',
   },
   content: {
-    flex: 1,
+    flex: '1 1 auto',
+    minHeight: 0,
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
@@ -71,7 +105,6 @@ const styles = {
   },
   label: {
     fontFamily: "'Press Start 2P', monospace",
-    fontSize: '18px',
     color: '#2af5d6',
     textShadow: '0 0 16px rgba(42,245,214,0.4)',
     letterSpacing: '0.2em',
@@ -88,14 +121,12 @@ const styles = {
   },
   subtitle: {
     fontFamily: "var(--arcade-mono)",
-    fontSize: '11px',
     color: '#8b88a8',
     lineHeight: 2,
     marginTop: '16px',
     maxWidth: '30ch',
   },
   avatar: {
-    margin: '3rem 0 2.5rem',
     filter: 'drop-shadow(0 0 10px rgba(42,245,214,0.5))',
   },
   message: {
@@ -105,11 +136,13 @@ const styles = {
     lineHeight: 2.4,
   },
   footer: {
+    flexShrink: 0,
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
     gap: '12px',
-    paddingTop: '2rem',
+    paddingTop: '1rem',
+    paddingBottom: '0.5rem',
   },
   author: {
     fontFamily: "'Press Start 2P', monospace",

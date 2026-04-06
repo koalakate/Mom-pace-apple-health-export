@@ -2,6 +2,8 @@ import { useRef, useEffect, useState } from "react";
 import Lenis from "lenis";
 import RacetrackCanvas from "../components/RacetrackCanvas";
 import PixelAvatar from "../components/PixelAvatar";
+import useIsMobile from "../hooks/useIsMobile";
+import MobileStub from "../components/MobileStub";
 import "../styles/arcade-theme.css";
 
 /* ── Callouts ──────────────────────────────────────────────── */
@@ -174,6 +176,7 @@ const DEFAULTS = {
 };
 
 export default function RacetrackPage() {
+  const mobile = useIsMobile();
   const [data, setData] = useState(null);
   const [started, setStarted] = useState(false);
   const [allCallouts, setAllCallouts] = useState(STATIC_CALLOUTS);
@@ -394,6 +397,8 @@ export default function RacetrackPage() {
     ? calloutScreenPos.x < trackCenterX
     : false;
   const currentPhaseIdx = phaseOrder.indexOf(hudPhase);
+
+  if (mobile) return <MobileStub />;
 
   return (
     <div className="arcade-page">
