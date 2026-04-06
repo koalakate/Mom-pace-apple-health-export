@@ -2,9 +2,9 @@ import { useRef, useEffect, useMemo } from 'react';
 import { groupByWeek, seededRandom } from '../utils/sleepDataUtils';
 import { mean, scaleLinear } from 'd3';
 
-const WIDTH = 600;
-const HEIGHT = 900;
-const BASE_Y = HEIGHT - 40;
+const WIDTH = 700;
+const HEIGHT = 1200;
+const BASE_Y = HEIGHT - 60;
 const TRUNK_X = WIDTH / 2;
 
 export default function CoralGrowth({ data }) {
@@ -33,94 +33,108 @@ export default function CoralGrowth({ data }) {
     const ctx = canvas.getContext('2d');
     ctx.scale(2, 2);
     ctx.clearRect(0, 0, WIDTH, HEIGHT);
+
+    // Deep dark background
+    ctx.fillStyle = '#0a0a1a';
+    ctx.fillRect(0, 0, WIDTH, HEIGHT);
+
     ctx.lineCap = 'round';
 
+    // Growth per week: good sleep = tall, bad = stunted
     const growthScale = scaleLinear()
-      .domain([2, 9])
-      .range([1.5, 5])
+      .domain([3, 9])
+      .range([2, 6])
       .clamp(true);
 
+    // Branches: more awakenings = more splits
     const branchScale = scaleLinear()
       .domain([0, 5])
-      .range([1, 4])
+      .range([1, 5])
       .clamp(true);
 
-    function drawBranch(x, y, angle, length, thickness, depth, color) {
-      if (depth <= 0 || thickness < 0.3) return;
+    // Trunk thickness tapers over time
+    const trunkThicknessScale = scaleLinear()
+      .domain([0, weeks.length])
+      .range([10, 1.5])
+      .clamp(true);
 
-      const endX = x + Math.cos(angle) * length;
-      const endY = y + Math.sin(angle) * length;
-
+    function drawOrganicBranch(x1, y1, x2, y2, thickness, color, alpha) {
       ctx.beginPath();
-      ctx.moveTo(x, y);
-      ctx.lineTo(endX, endY);
+      // Slight curve for organic feel
+      const midX = (x1 + x2) / 2 + (x2 - x1) * 0.15;
+      const midY = (y1 + y2) / 2;
+      ctx.moveTo(x1, y1);
+      ctx.quadraticCurveTo(midX, midY, x2, y2);
       ctx.strokeStyle = color;
       ctx.lineWidth = thickness;
-      ctx.globalAlpha = 0.7 + depth * 0.05;
+      ctx.globalAlpha = alpha;
       ctx.stroke();
-
-      return { x: endX, y: endY };
     }
 
     let currentX = TRUNK_X;
     let currentY = BASE_Y;
-    let currentAngle = -Math.PI / 2;
+    let mainAngle = -Math.PI / 2; // Growing upward
 
     weeks.forEach((week, i) => {
       const rand = seededRandom(i * 997 + 13);
       const growth = growthScale(week.avgSleep);
       const branches = Math.round(branchScale(week.avgAwakenings));
-      const thickness = Math.max(1, 4 - i * 0.015);
+      const thickness = trunkThicknessScale(i);
 
-      const jitter = (rand() - 0.5) * 0.08;
-      const end = drawBranch(
-        currentX,
-        currentY,
-        currentAngle + jitter,
-        growth,
-        thickness,
-        10,
-        week.color
-      );
+      // Main trunk segment — slight organic sway
+      const jitter = (rand() - 0.5) * 0.1;
+      const angle = mainAngle + jitter;
+      const endX = currentX + Math.cos(angle) * growth;
+      const endY = currentY + Math.sin(angle) * growth;
 
-      if (!end) return;
+      // Draw main trunk
+      drawOrganicBranch(currentX, currentY, endX, endY, thickness, week.color, 0.85);
 
+      // Draw side branches when awakenings are high
       if (branches >= 2) {
         for (let b = 0; b < branches - 1; b++) {
-          const branchAngle =
-            currentAngle +
-            ((b % 2 === 0 ? 1 : -1) * (0.4 + rand() * 0.5));
-          const branchLen = growth * (0.3 + rand() * 0.4);
+          const side = b % 2 === 0 ? 1 : -1;
+          const branchAngle = angle + side * (0.3 + rand() * 0.6);
+          const branchLen = growth * (0.5 + rand() * 0.8);
+          const branchThickness = thickness * 0.45;
 
-          const branchEnd = drawBranch(
-            end.x,
-            end.y,
-            branchAngle,
-            branchLen,
-            thickness * 0.5,
-            3,
-            week.color
-          );
+          const bx = endX + Math.cos(branchAngle) * branchLen;
+          const by = endY + Math.sin(branchAngle) * branchLen;
 
-          if (branchEnd && branches >= 4) {
-            const subAngle = branchAngle + ((rand() - 0.5) * 0.8);
-            drawBranch(
-              branchEnd.x,
-              branchEnd.y,
-              subAngle,
-              branchLen * 0.5,
-              thickness * 0.25,
-              1,
-              week.color
-            );
+          drawOrganicBranch(endX, endY, bx, by, branchThickness, week.color, 0.6);
+
+          // Sub-branches for dense fragmentation (awakenings >= 4)
+          if (branches >= 4) {
+            const subCount = 1 + Math.floor(rand() * 2);
+            for (let sb = 0; sb < subCount; sb++) {
+              const subSide = sb % 2 === 0 ? 1 : -1;
+              const subAngle = branchAngle + subSide * (0.4 + rand() * 0.5);
+              const subLen = branchLen * (0.3 + rand() * 0.4);
+              const subThickness = branchThickness * 0.4;
+
+              const sx = bx + Math.cos(subAngle) * subLen;
+              const sy = by + Math.sin(subAngle) * subLen;
+
+              drawOrganicBranch(bx, by, sx, sy, subThickness, week.color, 0.4);
+
+              // Tiny tips for really chaotic weeks
+              if (branches >= 5 && rand() > 0.4) {
+                const tipAngle = subAngle + (rand() - 0.5) * 1.0;
+                const tipLen = subLen * 0.4;
+                const tx = sx + Math.cos(tipAngle) * tipLen;
+                const ty = sy + Math.sin(tipAngle) * tipLen;
+                drawOrganicBranch(sx, sy, tx, ty, subThickness * 0.4, week.color, 0.25);
+              }
+            }
           }
         }
       }
 
-      currentX = end.x;
-      currentY = end.y;
-      currentAngle =
-        -Math.PI / 2 + (TRUNK_X - currentX) * 0.008 + jitter;
+      currentX = endX;
+      currentY = endY;
+
+      // Drift correction — keep trunk roughly centered
+      mainAngle = -Math.PI / 2 + (TRUNK_X - currentX) * 0.012 + jitter * 0.3;
     });
 
     ctx.globalAlpha = 1;

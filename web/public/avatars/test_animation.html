@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Avatar Animation Test</title>
+<style>
+  body { background: #1a1a2e; color: #fff; font-family: monospace; padding: 20px; }
+  h2 { margin-top: 40px; color: #aaa; font-size: 14px; }
+  .row { display: flex; gap: 60px; align-items: flex-end; margin: 20px 0; }
+  .avatar-box { text-align: center; }
+  .avatar-box label { display: block; margin-top: 8px; font-size: 11px; color: #888; }
+  .sprite { width: 93px; height: 94px; image-rendering: pixelated; display: block; margin: 0 auto; }
+  .anim-group { display: flex; gap: 80px; flex-wrap: wrap; margin: 20px 0; }
+  .anim-card { background: #16213e; border-radius: 8px; padding: 20px 30px; text-align: center; }
+  .anim-card h3 { font-size: 13px; color: #e94560; margin: 0 0 4px; }
+  .anim-card p { font-size: 11px; color: #666; margin: 0 0 12px; }
+  .anim-card canvas { image-rendering: pixelated; display: block; margin: 0 auto; }
+  .speed-controls { margin: 30px 0; }
+  .speed-controls button { background: #16213e; color: #fff; border: 1px solid #333; padding: 6px 14px; margin-right: 8px; cursor: pointer; border-radius: 4px; font-family: monospace; }
+  .speed-controls button.active { background: #e94560; border-color: #e94560; }
+  hr { border: none; border-top: 1px solid #333; margin: 40px 0; }
+</style>
+</head>
+<body>
+
+<h1>Avatar Animation Test</h1>
+
+<h2>ALL FRAMES (static)</h2>
+<div class="row" id="static-frames"></div>
+
+<hr>
+
+<h2>ANIMATION SEQUENCES</h2>
+<div class="speed-controls">
+  Speed:
+  <button data-fps="4">4 fps</button>
+  <button data-fps="6">6 fps</button>
+  <button data-fps="8" class="active">8 fps</button>
+  <button data-fps="12">12 fps</button>
+</div>
+
+<div class="anim-group" id="anim-group"></div>
+
+<hr>
+<h2>ALL AVATARS — Sequence A (1→2→3→4)</h2>
+<div class="anim-group" id="all-avatars"></div>
+
+<script>
+const SHEET = 'spritesheet.png';
+const sheetImg = new Image();
+sheetImg.src = SHEET;
+
+const AVATARS = {
+  '01_solo_runner':   { frames: [[40,0,93,94],[167,0,93,94],[312,0,93,94],[451,0,93,94]] },
+  '02_pregnant':      { frames: [[40,89,93,88],[174,90,92,88],[312,90,93,88],[455,90,93,88]] },
+  '03_baby_carrier':  { frames: [[49,174,93,85],[174,173,92,87],[312,173,93,87],[455,174,93,85]] },
+  '04_with_toddler':  { frames: [[37,254,93,85],[158,255,93,86],[304,254,93,87],[455,256,93,85]] },
+  '05_with_two_kids': { frames: [[37,340,93,86],[158,340,93,87],[304,337,93,87],[442,340,93,85]] },
+};
+
+const SEQUENCES = {
+  'A: 1→2→3→4':       { order: [0,1,2,3], desc: 'All frames in order' },
+  'B: 1→2→1→2':       { order: [0,1,0,1], desc: 'Two strides alternating' },
+  'C: 1→4→2→4':       { order: [0,3,1,3], desc: 'Stride→together→stride→together' },
+  'D: 1→3→2→4':       { order: [0,2,1,3], desc: 'Left→mid→right→together' },
+  'E: 1→2→4→4':       { order: [0,1,3,3], desc: 'Two strides then idle hold' },
+};
+
+let fps = 8;
+const canvases = [];
+
+sheetImg.onload = () => {
+  // Static frames
+  const staticRow = document.getElementById('static-frames');
+  const avatar = AVATARS['01_solo_runner'];
+  avatar.frames.forEach((f, i) => {
+    const box = document.createElement('div');
+    box.className = 'avatar-box';
+    const c = document.createElement('canvas');
+    c.width = f[2]; c.height = f[3];
+    c.className = 'sprite';
+    c.style.width = f[2] * 2 + 'px';
+    c.style.height = f[3] * 2 + 'px';
+    const ctx = c.getContext('2d');
+    ctx.drawImage(sheetImg, f[0], f[1], f[2], f[3], 0, 0, f[2], f[3]);
+    box.appendChild(c);
+    const label = document.createElement('label');
+    label.textContent = `Frame ${i + 1}`;
+    box.appendChild(label);
+    staticRow.appendChild(box);
+  });
+
+  // Animation sequences for solo runner
+  const animGroup = document.getElementById('anim-group');
+  for (const [name, seq] of Object.entries(SEQUENCES)) {
+    const card = document.createElement('div');
+    card.className = 'anim-card';
+    const h3 = document.createElement('h3');
+    h3.textContent = name;
+    card.appendChild(h3);
+    const p = document.createElement('p');
+    p.textContent = seq.desc;
+    card.appendChild(p);
+    const c = document.createElement('canvas');
+    c.width = 93; c.height = 94;
+    c.style.width = '186px'; c.style.height = '188px';
+    c.style.imageRendering = 'pixelated';
+    card.appendChild(c);
+    animGroup.appendChild(card);
+    canvases.push({ canvas: c, avatarKey: '01_solo_runner', order: seq.order, frame: 0 });
+  }
+
+  // All avatars with sequence A
+  const allGroup = document.getElementById('all-avatars');
+  for (const [key, av] of Object.entries(AVATARS)) {
+    const card = document.createElement('div');
+    card.className = 'anim-card';
+    const h3 = document.createElement('h3');
+    h3.textContent = key.replace(/^\d+_/, '').replace(/_/g, ' ');
+    card.appendChild(h3);
+    const p = document.createElement('p');
+    p.textContent = '1→2→3→4';
+    card.appendChild(p);
+    const c = document.createElement('canvas');
+    const maxW = Math.max(...av.frames.map(f => f[2]));
+    const maxH = Math.max(...av.frames.map(f => f[3]));
+    c.width = maxW; c.height = maxH;
+    c.style.width = maxW * 2 + 'px'; c.style.height = maxH * 2 + 'px';
+    c.style.imageRendering = 'pixelated';
+    card.appendChild(c);
+    allGroup.appendChild(card);
+    canvases.push({ canvas: c, avatarKey: key, order: [0,1,2,3], frame: 0 });
+  }
+
+  // Animation loop
+  let lastTime = 0;
+  function animate(time) {
+    const interval = 1000 / fps;
+    if (time - lastTime >= interval) {
+      lastTime = time;
+      for (const item of canvases) {
+        const av = AVATARS[item.avatarKey];
+        const frameIdx = item.order[item.frame % item.order.length];
+        const f = av.frames[frameIdx];
+        const ctx = item.canvas.getContext('2d');
+        ctx.clearRect(0, 0, item.canvas.width, item.canvas.height);
+        ctx.drawImage(sheetImg, f[0], f[1], f[2], f[3], 0, 0, f[2], f[3]);
+        item.frame++;
+      }
+    }
+    requestAnimationFrame(animate);
+  }
+  requestAnimationFrame(animate);
+};
+
+// Speed controls
+document.querySelectorAll('.speed-controls button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.speed-controls button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    fps = parseInt(btn.dataset.fps);
+  });
+});
+</script>
+</body>
+</html>

@@ -1,23 +1,43 @@
+import { useState, useEffect } from 'react';
 import ScrollySection from './components/ScrollySection';
 import theme from './styles/theme';
 import useSleepData from './hooks/useSleepData';
-import NightGrid from './components/NightGrid';
-import Blanket from './components/Blanket';
-import Thread from './components/Thread';
-import CoralGrowth from './components/CoralGrowth';
+import useIsMobile from './hooks/useIsMobile';
+import MobileStub from './components/MobileStub';
+import Racetrack from './components/Racetrack';
+import StackedDots from './components/archive/Treemap_v3_stackeddots';
+import TangentKnit from './components/Treemap';
 
 const { phases } = theme.colors;
 
 function App() {
   const { data, loading } = useSleepData();
+  const [scrolled, setScrolled] = useState(false);
+  const mobile = useIsMobile();
+
+  useEffect(() => {
+    const onScroll = () => setScrolled(window.scrollY > 80);
+    window.addEventListener('scroll', onScroll, { passive: true });
+    return () => window.removeEventListener('scroll', onScroll);
+  }, []);
+
+  if (mobile) return <MobileStub />;
+
   return (
     <main>
-      <header style={styles.header}>
-        <h1 style={styles.title}>Motherhood & Sleep</h1>
-        <p style={styles.subtitle}>
-          A data story about how becoming a mother reshapes the rhythm of rest
-        </p>
+      <header style={{ ...styles.header, ...(scrolled ? styles.headerScrolled : {}) }}>
+        <h1 style={{ ...styles.title, ...(scrolled ? styles.titleScrolled : {}) }}>
+          Motherhood & Sleep
+        </h1>
+        {!scrolled && (
+          <p style={styles.subtitle}>
+            A data story about how becoming a mother reshapes the rhythm of rest
+          </p>
+        )}
       </header>
+
+      {/* Spacer to offset the sticky header */}
+      <div style={{ height: scrolled ? 60 : 0 }} />
 
       <ScrollySection
         phaseColor={phases.prePregnancy}
@@ -58,70 +78,56 @@ function App() {
         }
       />
 
+      {/* ── Exploration: Stacked Dots ─────────────────────── */}
       <ScrollySection
         phaseColor={null}
         text={
           <>
-            <h2 style={styles.heading}>The Blanket</h2>
+            <h2 style={styles.heading}>3 · Stacked Dots</h2>
             <p>
-              Each vertical stitch is one night. Smooth lines mean
-              unbroken sleep. Knots mark each awakening. Scroll
-              sideways to trace 4.7 years of nights.
+              Every night is a column of dots. Sleep hours stack
+              upward — green for restful, red for poor. Below the
+              line, dark dots count awake minutes and awakenings.
             </p>
           </>
         }
       >
-        {!loading && data && <Blanket data={data} />}
+        {!loading && data && <StackedDots data={data} />}
       </ScrollySection>
 
+      {/* ── Exploration: Venn Diagram ─────────────────────── */}
       <ScrollySection
         phaseColor={null}
         text={
           <>
-            <h2 style={styles.heading}>The Thread</h2>
+            <h2 style={styles.heading}>6 · Patterned Venn</h2>
             <p>
-              One unbroken line — 1,652 nights as a single thread
-              of life. Wide, smooth waves are restful sleep. Tight
-              tangles are nights shattered by awakenings.
+              Each cell is one week. Two circles in the same
+              unit — minutes. Dots = sleep time, lines = awake
+              time. The overlap is the ratio of awake to sleep.
+              Bad weeks: circles merge. Good weeks: barely touch.
             </p>
           </>
         }
       >
-        {!loading && data && <Thread data={data} />}
+        {!loading && data && <TangentKnit data={data} />}
       </ScrollySection>
 
+      {/* ── Racetrack (existing) ─────────────────────────── */}
       <ScrollySection
         phaseColor={null}
         text={
           <>
-            <h2 style={styles.heading}>Every Night, One Circle</h2>
+            <h2 style={styles.heading}>The Racetrack</h2>
             <p>
-              1,652 nights. Each circle is one night of sleep.
-              Larger circles mean more hours. Fragmented circles
-              mean interrupted sleep. Watch how the grid breaks
-              apart after each birth.
+              Every night of sleep, laid out as a strip of segments — just like
+              on the watch. 1,652 nights flow in lanes that curve back at the
+              edges. Solid blocks are unbroken sleep. Gaps are awakenings.
             </p>
           </>
         }
       >
-        {!loading && data && <NightGrid data={data} />}
-      </ScrollySection>
-
-      <ScrollySection
-        phaseColor={null}
-        text={
-          <>
-            <h2 style={styles.heading}>Growth</h2>
-            <p>
-              A living form shaped by sleep. Tall, straight growth
-              marks restful weeks. Dense branching marks the chaos
-              of fragmented nights. The organism keeps growing
-              through it all.
-            </p>
-          </>
-        }
-      >
-        {!loading && data && <CoralGrowth data={data} />}
+        <Racetrack />
       </ScrollySection>
     </main>
   );
@@ -129,13 +135,21 @@ function App() {
 
 const styles = {
   header: {
-    minHeight: '100vh',
+    position: 'sticky',
+    top: 0,
+    zIndex: 100,
     display: 'flex',
     flexDirection: 'column',
     justifyContent: 'center',
     alignItems: 'center',
     textAlign: 'center',
     padding: '2rem',
+    background: theme.colors.background,
+    transition: 'padding 0.3s ease, box-shadow 0.3s ease',
+  },
+  headerScrolled: {
+    padding: '0.75rem 2rem',
+    boxShadow: '0 1px 8px rgba(0,0,0,0.08)',
   },
   title: {
     fontSize: 'clamp(2.5rem, 6vw, 4.5rem)',
@@ -143,6 +157,11 @@ const styles = {
     letterSpacing: '-0.02em',
     margin: 0,
     color: theme.colors.text,
+    transition: 'font-size 0.3s ease',
+  },
+  titleScrolled: {
+    fontSize: '1.25rem',
+    fontWeight: 400,
   },
   subtitle: {
     fontSize: 'clamp(1rem, 2vw, 1.25rem)',

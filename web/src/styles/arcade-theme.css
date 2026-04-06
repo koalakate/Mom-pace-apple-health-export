@@ -1,0 +1,291 @@
+/* ── Retro Arcade Theme ─────────────────────────────────────── */
+
+:root {
+  --arcade-bg: #0f0e17;
+  --arcade-bg-lighter: #1a1932;
+  --arcade-surface: #232246;
+  --arcade-border: #3d3b6e;
+  --arcade-text: #e8e6f0;
+  --arcade-text-muted: #8b88a8;
+  --arcade-green: #2de370;
+  --arcade-cyan: #2af5d6;
+  --arcade-magenta: #ff4da6;
+  --arcade-yellow: #ffd642;
+  --arcade-orange: #ffb347;
+  --arcade-red: #ff6b6b;
+  --arcade-blue: #4d9fff;
+
+  --phase-pre: #2af5d6;
+  --phase-preg1: #ffb347;
+  --phase-post1: #ff6b6b;
+  --phase-preg2: #ffd642;
+  --phase-post2: #ff4da6;
+
+  --arcade-font: "Press Start 2P", monospace;
+  --arcade-mono: "JetBrains Mono", "Fira Code", monospace;
+
+  --scanline-opacity: 0.04;
+}
+
+/* ── Arcade page base ──────────────────────────────────────── */
+
+.arcade-page {
+  background: var(--arcade-bg);
+  color: var(--arcade-text);
+  font-family: var(--arcade-mono);
+  min-height: 100vh;
+  position: relative;
+  overflow-x: hidden;
+  image-rendering: pixelated;
+  padding-top: 44px; /* offset for fixed HUD */
+}
+
+/* ── CRT scanline overlay ──────────────────────────────────── */
+
+.arcade-page::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  z-index: 1000;
+  background: repeating-linear-gradient(
+    0deg,
+    transparent,
+    transparent 2px,
+    rgba(0, 0, 0, var(--scanline-opacity)) 2px,
+    rgba(0, 0, 0, var(--scanline-opacity)) 4px
+  );
+}
+
+/* ── HUD bar (sticky top) ──────────────────────────────────── */
+
+.arcade-hud {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 12px 24px;
+  background: var(--arcade-bg);
+  border-bottom: 2px solid var(--arcade-border);
+  font-family: var(--arcade-font);
+  font-size: 10px;
+  letter-spacing: 0.5px;
+}
+
+.arcade-hud__title {
+  color: var(--arcade-yellow);
+  text-shadow: 0 0 8px rgba(255, 214, 66, 0.4);
+}
+
+.arcade-hud__counter {
+  color: var(--arcade-green);
+  text-shadow: 0 0 8px rgba(45, 227, 112, 0.4);
+}
+
+.arcade-hud__phase {
+  color: var(--arcade-text-muted);
+  font-size: 8px;
+}
+
+/* ── Legend ────────────────────────────────────────────────── */
+
+.arcade-legend {
+  position: absolute;
+  top: 4vh;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 10px 14px;
+  font-family: var(--arcade-font);
+  font-size: 7px;
+  letter-spacing: 0.5px;
+  color: var(--arcade-text-muted);
+}
+
+.arcade-legend__row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* ── Track container ───────────────────────────────────────── */
+
+.arcade-track-wrap {
+  width: 80%;
+  max-width: 1400px;
+  margin: 0 auto;
+  position: relative;
+  padding: 32px 0;
+}
+
+/* ── Tooltip ───────────────────────────────────────────────── */
+
+.arcade-tooltip {
+  pointer-events: none;
+  background: var(--arcade-bg);
+  border: 2px solid var(--arcade-green);
+  padding: 10px 14px;
+  font-family: var(--arcade-font);
+  font-size: 7px;
+  line-height: 1.8;
+  color: var(--arcade-text);
+  white-space: nowrap;
+  box-shadow: 0 0 12px rgba(45, 227, 112, 0.15);
+}
+
+.arcade-tooltip__date {
+  color: var(--arcade-yellow);
+  margin-bottom: 4px;
+}
+
+.arcade-tooltip__phase {
+  color: var(--arcade-text-muted);
+  font-size: 6px;
+}
+
+.arcade-tooltip__stat {
+  color: var(--arcade-green);
+}
+
+/* ── Callout speech bubble — parallax fly-in ───────────────── */
+
+.arcade-callout {
+  position: absolute;
+  z-index: 40;
+  background: var(--arcade-surface);
+  border: 2px solid var(--arcade-cyan);
+  padding: 14px 18px;
+  font-family: var(--arcade-font);
+  font-size: 8px;
+  line-height: 2;
+  color: var(--arcade-text);
+  max-width: 320px;
+  box-shadow: 0 0 20px rgba(42, 245, 214, 0.1);
+
+  --parallax-y: 0px;
+
+  /* start invisible */
+  opacity: 0;
+  will-change: transform, opacity;
+  transition:
+    opacity 0.5s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.6s cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* Entry from right (callout on the right side of track) */
+.arcade-callout--right {
+  transform: translate3d(120px, 20px, 0) scale(0.92);
+}
+
+/* Entry from left (callout on the left side of track) */
+.arcade-callout--left {
+  transform: translate3d(-120px, 20px, 0) scale(0.92);
+}
+
+/* Visible: settle in place with parallax Y offset */
+.arcade-callout--visible {
+  opacity: 1;
+  transform: translate3d(0, var(--parallax-y), 0) scale(1);
+}
+
+/* Exit: drift away in the direction it came from */
+.arcade-callout--right.arcade-callout--exiting {
+  opacity: 0;
+  transform: translate3d(-60px, calc(var(--parallax-y) - 20px), 0) scale(0.95);
+}
+
+.arcade-callout--left.arcade-callout--exiting {
+  opacity: 0;
+  transform: translate3d(60px, calc(var(--parallax-y) - 20px), 0) scale(0.95);
+}
+
+.arcade-callout__label {
+  color: var(--arcade-cyan);
+  font-size: 6px;
+  margin-bottom: 6px;
+  text-transform: uppercase;
+}
+
+/* ── Avatar overlay — GPU composited ──────────────────────── */
+
+.arcade-avatar {
+  position: absolute;
+  z-index: 30;
+  pointer-events: none;
+  will-change: transform;
+  filter: drop-shadow(0 0 6px rgba(45, 227, 112, 0.5));
+  /* no transition — rAF drives smooth updates via transform */
+}
+
+/* ── Running bounce — on child so it doesn't conflict with position ── */
+
+.arcade-avatar__bounce {
+  animation: run-bounce 0.36s steps(2) infinite;
+}
+
+@keyframes blink {
+  50% {
+    opacity: 0;
+  }
+}
+
+@keyframes run-bounce {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-3px);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}
+
+/* ── Loading state ─────────────────────────────────────────── */
+
+.arcade-loading {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  font-family: var(--arcade-font);
+  font-size: 14px;
+  color: var(--arcade-yellow);
+  text-shadow: 0 0 12px rgba(255, 214, 66, 0.4);
+}
+
+/* ── Phase progress bar ────────────────────────────────────── */
+
+.arcade-phases {
+  display: flex;
+  gap: 2px;
+  height: 4px;
+  width: 200px;
+}
+
+.arcade-phases__seg {
+  flex: 1;
+  height: 100%;
+  opacity: 0.3;
+  transition: opacity 0.3s;
+}
+
+.arcade-phases__seg--active {
+  opacity: 1;
+  box-shadow: 0 0 4px currentColor;
+}
+
+/* ── Pixel grid helper ─────────────────────────────────────── */
+
+.pixel-grid {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+}
+

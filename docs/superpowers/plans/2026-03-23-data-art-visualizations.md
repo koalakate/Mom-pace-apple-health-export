@@ -2,7 +2,7 @@
 
 > **For agentic workers:** REQUIRED SUB-SKILL: Use superpowers:subagent-driven-development (recommended) or superpowers:executing-plans to implement this plan task-by-task. Steps use checkbox (`- [ ]`) syntax for tracking.
 
-**Goal:** Build 4 data-art visualization components (Night Grid, Blanket, Thread, Coral Growth) that render ~1,652 nights of sleep data as D3/Canvas art pieces, integrated alongside the existing scrollytelling sections.
+**Goal:** Build 3 data-art visualization components (Racetrack, Venn Diagram, Stacked Dots) that render ~1,652 nights of sleep data as D3/Canvas art pieces, integrated alongside the existing scrollytelling sections.
 
 **Architecture:** Each data-art piece is a standalone React component that receives loaded JSON data as props. A shared data loader fetches `nightly_sleep_processed.json` once and passes it down. Each component uses D3 for computation and Canvas (or SVG for Night Grid) for rendering. Components sit inside `ScrollySection` wrappers in `App.jsx`.
 
